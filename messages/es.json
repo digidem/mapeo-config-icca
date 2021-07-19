@@ -194,5 +194,9 @@
   "presets.boundary-icca-area-sea-notake.terms": {
     "description": "List of search terms for preset 'boundary-icca-area-sea-notake'",
     "message": "límite, límite, ticca"
+  },
+  "presets.boundary-icca-area-sea.name": {
+    "description": "The name of preset 'boundary-icca-area-sea'",
+    "message": "Límite TICCA"
   }
 }
