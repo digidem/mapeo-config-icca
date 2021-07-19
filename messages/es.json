@@ -1,1 +1,198 @@
-{}
+{
+  "fields.1-name.label": {
+    "description": "Label for field '1-name'",
+    "message": "1. Nombre de ICCA"
+  },
+  "fields.10-icca-conservation-status.helperText": {
+    "description": "Descriptive text for field '10-icca-conservation-status'",
+    "message": "Es la TICCA reconocida por el gobierno nacional por su papel en la conservación (p.ej. ¿como área protegida?Seleccione \"Diseñada\" si el ICCA es designado legalmente como área protegida u otro tipo de área de conservación. Seleccione \"Establecido\" si la TICCA es establecido por los pueblos indígenas o la comunidad local, pero no legalmente designado como área protegida u otro tipo de área de conservación. Seleccione \"Propuesto\" si la TICCA está aprobado para el futuro diseño legal como un área protegida u otro tipo de área de conservación"
+  },
+  "fields.10-icca-conservation-status.label": {
+    "description": "Label for field '10-icca-conservation-status'",
+    "message": "10. Estado de reconocimiento del gobierno TICCA"
+  },
+  "fields.11-icca-year.helperText": {
+    "description": "Descriptive text for field '11-icca-year'",
+    "message": "¿En qué año entró en vigor este estatuto? Si se establece el estatuto, este es el año en el que surgió la TICCA. También puedes responder \"Desconocido\" o \"Tiempo inmemorial\""
+  },
+  "fields.11-icca-year.label": {
+    "description": "Label for field '11-icca-year'",
+    "message": "11. Año TICCA establecido"
+  },
+  "fields.11-icca-year.placeholder": {
+    "description": "An example to guide the user for field '11-icca-year'",
+    "message": "Año de 4 dígitos ej. 2014"
+  },
+  "fields.12-icca-type.helperText": {
+    "description": "Descriptive text for field '12-icca-type'",
+    "message": "Este puede ser el diseño legal de la TICCA, p. ej. Reserva Indígena, o el tipo de TICCA tal y como se define por los pueblos indígenas o comunidades, por ejemplo, sitios sagrados."
+  },
+  "fields.12-icca-type.label": {
+    "description": "Label for field '12-icca-type'",
+    "message": "12. Tipo de TICCA"
+  },
+  "fields.13-icca-objectives.helperText": {
+    "description": "Descriptive text for field '13-icca-objectives'",
+    "message": "¿Cuáles son los principales objetivos de la gestión del TICCA?"
+  },
+  "fields.13-icca-objectives.label": {
+    "description": "Label for field '13-icca-objectives'",
+    "message": "13. Objetivos TICCA"
+  },
+  "fields.14-icca-other.helperText": {
+    "description": "Descriptive text for field '14-icca-other'",
+    "message": "Cualquier otra información importante que te gustaría compartir"
+  },
+  "fields.14-icca-other.label": {
+    "description": "Label for field '14-icca-other'",
+    "message": "¿Algo más?"
+  },
+  "fields.14-icca-other.placeholder": {
+    "description": "An example to guide the user for field '14-icca-other'",
+    "message": "Cualquier otra información importante que te gustaría compartir"
+  },
+  "fields.2-icca-country.helperText": {
+    "description": "Descriptive text for field '2-icca-country'",
+    "message": "¿En qué país se encuentra este TICCA?"
+  },
+  "fields.2-icca-country.label": {
+    "description": "Label for field '2-icca-country'",
+    "message": "País"
+  },
+  "fields.3-icca-area.helperText": {
+    "description": "Descriptive text for field '3-icca-area'",
+    "message": "Seleccione la forma TICCA y presione Ctrl-i para obtener estadísticas del área."
+  },
+  "fields.3-icca-area.label": {
+    "description": "Label for field '3-icca-area'",
+    "message": "3. Superficie de TICCA (km2)"
+  },
+  "fields.3-icca-area.placeholder": {
+    "description": "An example to guide the user for field '3-icca-area'",
+    "message": "Área en kilómetros cuadrados"
+  },
+  "fields.4-icca-land-sea.label": {
+    "description": "Label for field '4-icca-land-sea'",
+    "message": "4. ¿Es el TICCA, en tierra, en el mar, o en ambos?"
+  },
+  "fields.4a-icca-sea-area.helperText": {
+    "description": "Descriptive text for field '4a-icca-sea-area'",
+    "message": "Si el TICCA incluye algún área en el mar, ¿cuál es el tamaño, en kilómetros cuadrados, de esta parte?"
+  },
+  "fields.4a-icca-sea-area.label": {
+    "description": "Label for field '4a-icca-sea-area'",
+    "message": "4a. Área de TICCA en el mar (km2)"
+  },
+  "fields.5-icca-no-take.helperText": {
+    "description": "Descriptive text for field '5-icca-no-take'",
+    "message": "¿Hay una parte del TICCA, donde no se pueden tomar ni utilizar recursos naturales (una zona de no tomar)? Esto puede ser temporal, temporal o permanente."
+  },
+  "fields.5-icca-no-take.label": {
+    "description": "Label for field '5-icca-no-take'",
+    "message": "5. ¿Existe una zona de no tomar?"
+  },
+  "fields.5a-icca-no-take-area.helperText": {
+    "description": "Descriptive text for field '5a-icca-no-take-area'",
+    "message": "¿Cuál es el tamaño, en kilómetros cuadrados, de la zona de no tomar?"
+  },
+  "fields.5a-icca-no-take-area.label": {
+    "description": "Label for field '5a-icca-no-take-area'",
+    "message": "5a. Tamaño del área de no tomar (km2)"
+  },
+  "fields.5a-icca-no-take-area.placeholder": {
+    "description": "An example to guide the user for field '5a-icca-no-take-area'",
+    "message": "Área en kilómetros cuadrados"
+  },
+  "fields.6-icca-boundary-criteria.helperText": {
+    "description": "Descriptive text for field '6-icca-boundary-criteria'",
+    "message": "Describa los criterios utilizados para determinar el límite del TICCA, p.ej. ¿Se trata de un área de uso y ocupación de recursos tradicionales, o de uso y ocupación real de los recursos, o de un sitio de importancia cultural o histórica?"
+  },
+  "fields.6-icca-boundary-criteria.label": {
+    "description": "Label for field '6-icca-boundary-criteria'",
+    "message": "6. ¿Cómo se determinó el límite?"
+  },
+  "fields.6-icca-boundary-criteria.placeholder": {
+    "description": "An example to guide the user for field '6-icca-boundary-criteria'",
+    "message": "Describa los criterios utilizados para determinar el límite"
+  },
+  "fields.7-icca-neighbours.helperText": {
+    "description": "Descriptive text for field '7-icca-neighbours'",
+    "message": "Si se ha acordado el límite con los vecinos, indique el nombre y la ubicación de los vecinos y las fechas de los acuerdos. Si no se ha acordado el límite, indique por favor el estado de las negociaciones de discusión. Usted puede poner \"No aplicable\" si no hay otros pueblos vecinos de la TICCA."
+  },
+  "fields.7-icca-neighbours.label": {
+    "description": "Label for field '7-icca-neighbours'",
+    "message": "7. Acuerdos fronterizos con los vecinos"
+  },
+  "fields.7-icca-neighbours.placeholder": {
+    "description": "An example to guide the user for field '7-icca-neighbours'",
+    "message": "¿Se ha acordado el límite con todos los pueblos vecinos?"
+  },
+  "fields.8-icca-sharing.helperText": {
+    "description": "Descriptive text for field '8-icca-sharing'",
+    "message": "¿La zona está delimitada por el límite utilizado y ocupado exclusivamente por tu pueblo o es compartida con otros pueblos o comunidades?"
+  },
+  "fields.8-icca-sharing.label": {
+    "description": "Label for field '8-icca-sharing'",
+    "message": "8. Uso compartido TICCA"
+  },
+  "fields.8-icca-sharing.placeholder": {
+    "description": "An example to guide the user for field '8-icca-sharing'",
+    "message": "¿Comparte el TICCA con otros pueblos de comunidades?"
+  },
+  "fields.9-icca-decision-making.helperText": {
+    "description": "Descriptive text for field '9-icca-decision-making'",
+    "message": "Seleccione \"Gobernanza colaborativa\" si una entidad es responsable pero se requiere que consulte con otras. Seleccione \"Gobernanza conjunta\" si dos o más entidades son conjuntamente responsables"
+  },
+  "fields.9-icca-decision-making.label": {
+    "description": "Label for field '9-icca-decision-making'",
+    "message": "9. ¿Quién es responsable de la toma de decisiones y de las normas del TICCA?"
+  },
+  "fields.culture.label": {
+    "description": "Label for field 'culture'",
+    "message": "¿Por qué este lugar es tan importante?"
+  },
+  "fields.culture.placeholder": {
+    "description": "An example to guide the user for field 'culture'",
+    "message": "¿Qué sucedió aquí, o por qué es importante este lugar para la comunidad?"
+  },
+  "fields.icca-legal-recognition.helperText": {
+    "description": "Descriptive text for field 'icca-legal-recognition'",
+    "message": "La zona está delimitada por el límite legalmente reconocido por sus gobiernos nacionales (pregunta 10, anterior) se refiere al estado de conservación. Esta pregunta se refiere al reconocimiento de los derechos de la tierra dentro de la zona)"
+  },
+  "fields.icca-legal-recognition.label": {
+    "description": "Label for field 'icca-legal-recognition'",
+    "message": "Derechos de tierra TICCA"
+  },
+  "fields.name.label": {
+    "description": "Label for field 'name'",
+    "message": "Nombre"
+  },
+  "fields.resource.label": {
+    "description": "Label for field 'resource'",
+    "message": "¿Qué se encuentra aquí?"
+  },
+  "fields.threat.label": {
+    "description": "Label for field 'threat'",
+    "message": "¿Qué está pasando aquí?"
+  },
+  "presets.area.name": {
+    "description": "The name of preset 'area'",
+    "message": "Otro área"
+  },
+  "presets.boundary-icca-area-notake.name": {
+    "description": "The name of preset 'boundary-icca-area-notake'",
+    "message": "Límite TICCA"
+  },
+  "presets.boundary-icca-area-notake.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area-notake'",
+    "message": "límite, límite, ticca"
+  },
+  "presets.boundary-icca-area-sea-notake.name": {
+    "description": "The name of preset 'boundary-icca-area-sea-notake'",
+    "message": "Límite TICCA"
+  },
+  "presets.boundary-icca-area-sea-notake.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area-sea-notake'",
+    "message": "límite, límite, ticca"
+  }
+}
