@@ -198,5 +198,89 @@
   "presets.boundary-icca-area-sea.name": {
     "description": "The name of preset 'boundary-icca-area-sea'",
     "message": "Límite TICCA"
+  },
+  "presets.boundary-icca-area-sea.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area-sea'",
+    "message": "límite, ticca, límite, límite, ticca"
+  },
+  "presets.boundary-icca-area.name": {
+    "description": "The name of preset 'boundary-icca-area'",
+    "message": "Límite TICCA"
+  },
+  "presets.boundary-icca-area.terms": {
+    "description": "List of search terms for preset 'boundary-icca-area'",
+    "message": "límite, ticca, límite, límite, ticca"
+  },
+  "presets.boundary-icca-point.name": {
+    "description": "The name of preset 'boundary-icca-point'",
+    "message": "Límite TICCA"
+  },
+  "presets.boundary-icca-point.terms": {
+    "description": "List of search terms for preset 'boundary-icca-point'",
+    "message": "frontera, límite"
+  },
+  "presets.community-cultural.name": {
+    "description": "The name of preset 'community-cultural'",
+    "message": "Sitio histórico o cultural"
+  },
+  "presets.community-cultural.terms": {
+    "description": "List of search terms for preset 'community-cultural'",
+    "message": "comunidad, cultura, sagrada, historia, espiritual"
+  },
+  "presets.community-resource.name": {
+    "description": "The name of preset 'community-resource'",
+    "message": "Recursos comunitarios"
+  },
+  "presets.community-resource.terms": {
+    "description": "List of search terms for preset 'community-resource'",
+    "message": "comunidad, recurso"
+  },
+  "presets.conservation.name": {
+    "description": "The name of preset 'conservation'",
+    "message": "Sitio de Conservación"
+  },
+  "presets.conservation.terms": {
+    "description": "List of search terms for preset 'conservation'",
+    "message": "conservación,prueba,científica,investigación,reserva,reserva"
+  },
+  "presets.impact.name": {
+    "description": "The name of preset 'impact'",
+    "message": "Amenaza o impacto"
+  },
+  "presets.impact.terms": {
+    "description": "List of search terms for preset 'impact'",
+    "message": "amenaza, impacto, logging, minería, invasión, ilegal"
+  },
+  "presets.line.name": {
+    "description": "The name of preset 'line'",
+    "message": "Nueva línea"
+  },
+  "presets.path.name": {
+    "description": "The name of preset 'path'",
+    "message": "Ruta"
+  },
+  "presets.path.terms": {
+    "description": "List of search terms for preset 'path'",
+    "message": "ruta,ruta,camino"
+  },
+  "presets.point.name": {
+    "description": "The name of preset 'point'",
+    "message": "Otros"
+  },
+  "presets.settlement.name": {
+    "description": "The name of preset 'settlement'",
+    "message": "Asentamiento"
+  },
+  "presets.settlement.terms": {
+    "description": "List of search terms for preset 'settlement'",
+    "message": "poblado, pueblo, comunidad"
+  },
+  "presets.tourism.name": {
+    "description": "The name of preset 'tourism'",
+    "message": "Turismo"
+  },
+  "presets.tourism.terms": {
+    "description": "List of search terms for preset 'tourism'",
+    "message": "turismo, lodge, turismo"
   }
 }
