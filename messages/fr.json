@@ -5,7 +5,7 @@
   },
   "fields.10-icca-conservation-status.helperText": {
     "description": "Descriptive text for field '10-icca-conservation-status'",
-    "message": "L'APAC est-elle reconnue par le gouvernement national pour son rôle dans la conservation (p. ex. En tant qu'aire protégée, sélectionnez « désignée » si l'APAC est légalement désignée comme zone protégée ou autre type d'aire de conservation. Sélectionnez \"Établi\" si l'APAC est établie par le peuple indigène ou la communauté locale, mais pas légalement désignée comme une aire protégée ou un autre type d'aire de conservation. Sélectionnez \"Proposé\" si l'APAC est approuvée pour une désignation légale future en tant qu'aire protégée ou autre type d'aire de conservation"
+    "message": "L'APAC est-elle reconnue par le gouvernement national pour son rôle dans la conservation (par exemple en tant qu'aire protégée) ? Sélectionnez « Désignée » si l'APAC est légalement désignée comme aire protégée ou autre type d'aire de conservation. Sélectionnez « Établi » si l'APAC est établie par le peuple autochtone ou la communauté locale, mais pas légalement désignée comme une aire protégée ou un autre type d'aire de conservation. Sélectionnez « Proposé » si l'APAC est approuvée pour une désignation légale future en tant qu'aire protégée ou autre type d'aire de conservation."
   },
   "fields.10-icca-conservation-status.label": {
     "description": "Label for field '10-icca-conservation-status'",
