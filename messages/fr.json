@@ -13,31 +13,31 @@
   },
   "fields.11-icca-year.helperText": {
     "description": "Descriptive text for field '11-icca-year'",
-    "message": "En quelle année ce statut est-il entré en vigueur? Si le statut est établi, c'est l'année où l'APAC a vu le jour pour la première fois. Vous pouvez également répondre à « Inconnu» ou « Temps immémorial»"
+    "message": "En quelle année ce statut est-il entré en vigueur ? Si le statut est établi, c'est l'année où l'APAC est entré en fonction. Vous pouvez également répondre à « Inconnu » ou « Temps immémorial »"
   },
   "fields.11-icca-year.label": {
     "description": "Label for field '11-icca-year'",
-    "message": "11. Année établie par l'APAC"
+    "message": "11. L'année d'établissement de l'APAC"
   },
   "fields.11-icca-year.placeholder": {
     "description": "An example to guide the user for field '11-icca-year'",
-    "message": "Année à 4 chiffres par exemple 2014"
+    "message": "L'année à 4 chiffres (par exemple 2014)"
   },
   "fields.12-icca-type.helperText": {
     "description": "Descriptive text for field '12-icca-type'",
-    "message": "Il peut s'agir de la désignation légale de la CPI, p. ex. Réserve indigène, ou le type de APAC tel que défini par le peuple ou la communauté indigène, par exemple le site sacré."
+    "message": "Il peut s'agir de la désignation légale de l'APAC, p. ex. Réserve indigène, ou le type de l'APAC tel que défini par le peuple autochtone ou la communauté, par exemple un site sacré."
   },
   "fields.12-icca-type.label": {
     "description": "Label for field '12-icca-type'",
-    "message": "12. Type de l'APAC"
+    "message": "12. Type d'APAC"
   },
   "fields.13-icca-objectives.helperText": {
     "description": "Descriptive text for field '13-icca-objectives'",
-    "message": "Quels sont les principaux objectifs de la gestion de l’APAC?"
+    "message": "Quels sont les principaux objectifs de la gestion de l’APAC ?"
   },
   "fields.13-icca-objectives.label": {
     "description": "Label for field '13-icca-objectives'",
-    "message": "13. Objectifs APAC"
+    "message": "13. Les objectifs de l'APAC"
   },
   "fields.14-icca-other.helperText": {
     "description": "Descriptive text for field '14-icca-other'",
@@ -45,7 +45,7 @@
   },
   "fields.14-icca-other.label": {
     "description": "Label for field '14-icca-other'",
-    "message": "Bien. Autre chose ?"
+    "message": "Autre chose à ajouter ?"
   },
   "fields.14-icca-other.placeholder": {
     "description": "An example to guide the user for field '14-icca-other'",
@@ -53,7 +53,7 @@
   },
   "fields.2-icca-country.helperText": {
     "description": "Descriptive text for field '2-icca-country'",
-    "message": "Dans quel pays se trouve cette APAC?"
+    "message": "Dans quel pays se trouve cette APAC ?"
   },
   "fields.2-icca-country.label": {
     "description": "Label for field '2-icca-country'",
@@ -61,103 +61,103 @@
   },
   "fields.3-icca-area.helperText": {
     "description": "Descriptive text for field '3-icca-area'",
-    "message": "Sélectionnez la forme APAC et appuyez sur Ctrl-i pour obtenir les statistiques de la zone."
+    "message": "Sélectionnez la forme de l'APAC et appuyez sur Ctrl-i pour obtenir les statistiques de la zone."
   },
   "fields.3-icca-area.label": {
     "description": "Label for field '3-icca-area'",
-    "message": "3. Zone de l'APAC (km2)"
+    "message": "3. Superficie de l'APAC (km2)"
   },
   "fields.3-icca-area.placeholder": {
     "description": "An example to guide the user for field '3-icca-area'",
-    "message": "Surface en kilomètres carrés"
+    "message": "Superficie en kilomètres carrés"
   },
   "fields.4-icca-land-sea.label": {
     "description": "Label for field '4-icca-land-sea'",
-    "message": "4. L'APAC est-elle sur terre, en mer ou les deux?"
+    "message": "4. L'APAC est-elle terrestre, marine ou couvre-t-elle les deux ?"
   },
   "fields.4a-icca-sea-area.helperText": {
     "description": "Descriptive text for field '4a-icca-sea-area'",
-    "message": "Si l'APAC inclut une zone dans la mer, quelle est la taille, en kilomètres-carrés, de cette partie ?"
+    "message": "Si l'APAC inclut une zone dans la mer, quelle est la superficie, en kilomètres-carrés, de cette partie ?"
   },
   "fields.4a-icca-sea-area.label": {
     "description": "Label for field '4a-icca-sea-area'",
-    "message": "4a. Zone de l'APAC dans la mer (km2)"
+    "message": "4a. Superficie de l'APAC dans la mer (km2)"
   },
   "fields.5-icca-no-take.helperText": {
     "description": "Descriptive text for field '5-icca-no-take'",
-    "message": "Y a-t-il une partie de l'APAC où aucune ressource naturelle ne peut être prélevée ou utilisée (une zone d'interdiction)? Cela peut être saisonnier, temporaire ou permanent."
+    "message": "Y a-t-il une partie de l'APAC où aucune ressource naturelle ne peut être prélevée ou utilisée (une zone d'interdiction) ? Cela peut être saisonnier, temporaire ou permanent."
   },
   "fields.5-icca-no-take.label": {
     "description": "Label for field '5-icca-no-take'",
-    "message": "5. Y a-t-il un espace de non-prise ?"
+    "message": "5. Y a-t-il une zone d'interdiction (où aucune ressource naturelle ne peut être prélevée ou utilisée) ?"
   },
   "fields.5a-icca-no-take-area.helperText": {
     "description": "Descriptive text for field '5a-icca-no-take-area'",
-    "message": "Quelle est la taille, en kilomètres carrés, de la zone de non-pris?"
+    "message": "Quelle est la superficie, en kilomètres carrés, de la zone d'interdiction ?"
   },
   "fields.5a-icca-no-take-area.label": {
     "description": "Label for field '5a-icca-no-take-area'",
-    "message": "5a. Taille de la zone de non-pris (km2)"
+    "message": "5a. Superficie de la zone d'interdiction (km2)"
   },
   "fields.5a-icca-no-take-area.placeholder": {
     "description": "An example to guide the user for field '5a-icca-no-take-area'",
-    "message": "Surface en kilomètres carrés"
+    "message": "Superficie en kilomètres carrés"
   },
   "fields.6-icca-boundary-criteria.helperText": {
     "description": "Descriptive text for field '6-icca-boundary-criteria'",
-    "message": "Décrivez les critères utilisés pour déterminer la limite de l'APAC, p. ex. S'agit-il d'une zone d'utilisation et d'occupation des ressources traditionnelles, ou d'une utilisation et occupation réelles des ressources, ou d'un site d'importance culturelle ou historique ?"
+    "message": "Décrivez les critères utilisés pour déterminer la limite de l'APAC, p. ex. s'agit-elle d'une zone d'utilisation et d'occupation des ressources traditionnelles, ou d'une utilisation et occupation des ressources réelles, ou d'un site d'importance culturelle ou historique ?"
   },
   "fields.6-icca-boundary-criteria.label": {
     "description": "Label for field '6-icca-boundary-criteria'",
-    "message": "6. Comment la frontière a-t-elle été déterminée?"
+    "message": "6. Comment les limites de l’APAC ont-elles été déterminée ?"
   },
   "fields.6-icca-boundary-criteria.placeholder": {
     "description": "An example to guide the user for field '6-icca-boundary-criteria'",
-    "message": "Décrire les critères utilisés pour déterminer la frontière"
+    "message": "Décrire les critères utilisés pour déterminer les limites de l'APAC"
   },
   "fields.7-icca-neighbours.helperText": {
     "description": "Descriptive text for field '7-icca-neighbours'",
-    "message": "Si la frontière a été convenue avec les voisins, indiquez le nom et l'emplacement des voisins et les dates des accords. Si la frontière n'a pas été convenue, veuillez indiquer le statut des négociations de discussions. Vous pouvez mettre \"Inapplicable\" s'il n'y a pas d'autres peuples voisins de la CPI."
+    "message": "Si les limites ont été convenue avec les voisins, indiquez le nom et l'emplacement des voisins et les dates des accords. Si les limites n'ont pas été convenue, veuillez indiquer le statut des négociations de discussions. Vous pouvez mettre « Inapplicable » si l'APAC n'a pas d'autres peuples voisins."
   },
   "fields.7-icca-neighbours.label": {
     "description": "Label for field '7-icca-neighbours'",
-    "message": "7. Accords limitrophes avec les voisins"
+    "message": "7. Accords des limites de l'APAC avec les voisins"
   },
   "fields.7-icca-neighbours.placeholder": {
     "description": "An example to guide the user for field '7-icca-neighbours'",
-    "message": "La frontière a-t-elle été convenue avec tous les peuples voisins?"
+    "message": "Les limites ont-elle été convenue avec tous les peuples voisins ?"
   },
   "fields.8-icca-sharing.helperText": {
     "description": "Descriptive text for field '8-icca-sharing'",
-    "message": "La zone est-elle délimitée par la frontière utilisée et occupée exclusivement par votre peuple ou est-elle partagée avec d'autres peuples ou communautés?"
+    "message": "Est-ce que la zone délimitée par les limites est utilisée et occupée exclusivement par votre peuple ou est-elle partagée avec d'autres peuples ou communautés ?"
   },
   "fields.8-icca-sharing.label": {
     "description": "Label for field '8-icca-sharing'",
-    "message": "8. Utilisation partagée APAC"
+    "message": "8. Utilisation partagée de l'APAC"
   },
   "fields.8-icca-sharing.placeholder": {
     "description": "An example to guide the user for field '8-icca-sharing'",
-    "message": "L'APAC est-elle partagée avec d'autres peuples de la communauté?"
+    "message": "L'APAC est-elle partagée avec d'autres peuples ou communautés ?"
   },
   "fields.9-icca-decision-making.helperText": {
     "description": "Descriptive text for field '9-icca-decision-making'",
-    "message": "Sélectionnez « Gouvernance collaborative » si une entité est responsable mais est tenue de consulter les autres. Sélectionnez « Gouvernance Commune » si deux ou plusieurs entités sont conjointement responsables"
+    "message": "Sélectionnez « Gouvernance collaborative » si une entité est responsable mais est tenue de consulter les autres. Sélectionnez « Gouvernance commune » si deux ou plusieurs entités sont conjointement responsables"
   },
   "fields.9-icca-decision-making.label": {
     "description": "Label for field '9-icca-decision-making'",
-    "message": "9. Qui est responsable de la prise de décision et des règles de la CPI?"
+    "message": "9. Qui est responsable de la prise de décision et des règles de l'APAC ?"
   },
   "fields.culture.label": {
     "description": "Label for field 'culture'",
-    "message": "Pourquoi est-ce important ?"
+    "message": "Pourquoi cet endroit est-il important ?"
   },
   "fields.culture.placeholder": {
     "description": "An example to guide the user for field 'culture'",
-    "message": "Que s'est-il passé ici, ou pourquoi ce lieu est-il important pour la communauté?"
+    "message": "Que s'est-il passé ici, ou pourquoi ce lieu est-il important pour la communauté ?"
   },
   "fields.icca-legal-recognition.helperText": {
     "description": "Descriptive text for field 'icca-legal-recognition'",
-    "message": "La zone est-elle délimitée par la frontière légalement reconnue par vos gouvernements nationaux (question 10, ci-dessus, se rapporte à l'état de conservation). Cette question fait référence à la reconnaissance des droits fonciers dans la région)"
+    "message": "La zone est-elle délimitée par des limites qui sont légalement reconnue par vos gouvernements nationaux ? (Question 10, ci-dessus, se rapporte à l'état de conservation. Cette question fait référence à la reconnaissance des droits fonciers dans la zone)"
   },
   "fields.icca-legal-recognition.label": {
     "description": "Label for field 'icca-legal-recognition'",
@@ -169,55 +169,55 @@
   },
   "fields.resource.label": {
     "description": "Label for field 'resource'",
-    "message": "Qu'est-ce qui se trouve ici?"
+    "message": "Qu'est-ce qui se trouve ici ?"
   },
   "fields.threat.label": {
     "description": "Label for field 'threat'",
-    "message": "Que se passe-t-il ici?"
+    "message": "Que se passe-t-il ici ?"
   },
   "presets.area.name": {
     "description": "The name of preset 'area'",
-    "message": "Autres endroits"
+    "message": "Autre endroit"
   },
   "presets.boundary-icca-area-notake.name": {
     "description": "The name of preset 'boundary-icca-area-notake'",
-    "message": "Frontière APAC"
+    "message": "Les limites de l'APAC"
   },
   "presets.boundary-icca-area-notake.terms": {
     "description": "List of search terms for preset 'boundary-icca-area-notake'",
-    "message": "limite,apac,bordure,limite,apac"
+    "message": "limite,apac,frontière,limite,apac"
   },
   "presets.boundary-icca-area-sea-notake.name": {
     "description": "The name of preset 'boundary-icca-area-sea-notake'",
-    "message": "Frontière APAC"
+    "message": "Les limites de l'APAC"
   },
   "presets.boundary-icca-area-sea-notake.terms": {
     "description": "List of search terms for preset 'boundary-icca-area-sea-notake'",
-    "message": "limite,apac,bordure,limite,apac"
+    "message": "limite,apac,frontière,limite,apac"
   },
   "presets.boundary-icca-area-sea.name": {
     "description": "The name of preset 'boundary-icca-area-sea'",
-    "message": "Frontière APAC"
+    "message": "Les limites de l'APAC"
   },
   "presets.boundary-icca-area-sea.terms": {
     "description": "List of search terms for preset 'boundary-icca-area-sea'",
-    "message": "limite,apac,bordure,limite,apac"
+    "message": "limite,apac,frontière,limite,apac"
   },
   "presets.boundary-icca-area.name": {
     "description": "The name of preset 'boundary-icca-area'",
-    "message": "Frontière APAC"
+    "message": "Les limites de l'APAC"
   },
   "presets.boundary-icca-area.terms": {
     "description": "List of search terms for preset 'boundary-icca-area'",
-    "message": "limite,apac,bordure,limite,apac"
+    "message": "limite,apac,frontière,limite,apac"
   },
   "presets.boundary-icca-point.name": {
     "description": "The name of preset 'boundary-icca-point'",
-    "message": "Frontière APAC"
+    "message": "Les limites de l'APAC"
   },
   "presets.boundary-icca-point.terms": {
     "description": "List of search terms for preset 'boundary-icca-point'",
-    "message": "bordure, frontière, limite"
+    "message": "frontière,frontière,limite"
   },
   "presets.community-cultural.name": {
     "description": "The name of preset 'community-cultural'",
@@ -229,15 +229,15 @@
   },
   "presets.community-resource.name": {
     "description": "The name of preset 'community-resource'",
-    "message": "Ressources communautaires"
+    "message": "Ressource communautaire"
   },
   "presets.community-resource.terms": {
     "description": "List of search terms for preset 'community-resource'",
-    "message": "ressources-communautaires"
+    "message": "communauté,ressource"
   },
   "presets.conservation.name": {
     "description": "The name of preset 'conservation'",
-    "message": "Etat de conservation"
+    "message": "Site de conservation"
   },
   "presets.conservation.terms": {
     "description": "List of search terms for preset 'conservation'",
@@ -249,7 +249,7 @@
   },
   "presets.impact.terms": {
     "description": "List of search terms for preset 'impact'",
-    "message": "menace, impact,loging,mining,invasion,illégal"
+    "message": "menace,impact,extraction de bois,exploitation minière,invasion,illégal"
   },
   "presets.line.name": {
     "description": "The name of preset 'line'",
@@ -277,10 +277,10 @@
   },
   "presets.tourism.name": {
     "description": "The name of preset 'tourism'",
-    "message": "Tourism"
+    "message": "Tourisme"
   },
   "presets.tourism.terms": {
     "description": "List of search terms for preset 'tourism'",
-    "message": "tourisme,lodge,touriste"
+    "message": "tourisme,chalet,touriste"
   }
 }
