@@ -5,11 +5,11 @@
   },
   "fields.10-icca-conservation-status.helperText": {
     "description": "Descriptive text for field '10-icca-conservation-status'",
-    "message": "Es la TICCA reconocida por el gobierno nacional por su papel en la conservación (p.ej. ¿como área protegida?Seleccione \"Diseñada\" si el ICCA es designado legalmente como área protegida u otro tipo de área de conservación. Seleccione \"Establecido\" si la TICCA es establecido por los pueblos indígenas o la comunidad local, pero no legalmente designado como área protegida u otro tipo de área de conservación. Seleccione \"Propuesto\" si la TICCA está aprobado para el futuro diseño legal como un área protegida u otro tipo de área de conservación"
+    "message": "Es el TICCA reconocido por el gobierno nacional por su papel en la conservación (p.ej. ¿como área protegida?) Seleccione \"Designada\" si el TICCA es designado legalmente como área protegida u otro tipo de área de conservación. Seleccione \"Establecido\" si el TICCA es establecido por los pueblos indígenas o la comunidad local, pero no legalmente designado como área protegida u otro tipo de área de conservación. Seleccione \"Propuesto\" si el TICCA está aprobado para la futura designación legal como un área protegida u otro tipo de área de conservación"
   },
   "fields.10-icca-conservation-status.label": {
     "description": "Label for field '10-icca-conservation-status'",
-    "message": "10. Estado de reconocimiento del gobierno TICCA"
+    "message": "10. Estado de reconocimiento del gobierno del TICCA"
   },
   "fields.11-icca-year.helperText": {
     "description": "Descriptive text for field '11-icca-year'",
