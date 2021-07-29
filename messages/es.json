@@ -1,7 +1,7 @@
 {
   "fields.1-name.label": {
     "description": "Label for field '1-name'",
-    "message": "1. Nombre de ICCA"
+    "message": "1. Nombre del TICCA"
   },
   "fields.10-icca-conservation-status.helperText": {
     "description": "Descriptive text for field '10-icca-conservation-status'",
