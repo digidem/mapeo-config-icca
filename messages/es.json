@@ -117,7 +117,7 @@
   },
   "fields.7-icca-neighbours.helperText": {
     "description": "Descriptive text for field '7-icca-neighbours'",
-    "message": "Si se ha acordado el límite con los vecinos, indique el nombre y la ubicación de los vecinos y las fechas de los acuerdos. Si no se ha acordado el límite, indique por favor el estado de las negociaciones de discusión. Usted puede poner \"No aplicable\" si no hay otros pueblos vecinos de la TICCA."
+    "message": "Si el límite se ha acordado con los vecinos, indique el nombre y la ubicación de los vecinos y las fechas de los acuerdos. Si no se ha acordado el límite, indique por favor el estado de las negociaciones de discusión. Usted puede poner \"No aplicable\" si no hay otros pueblos vecinos del TICCA."
   },
   "fields.7-icca-neighbours.label": {
     "description": "Label for field '7-icca-neighbours'",
@@ -125,23 +125,23 @@
   },
   "fields.7-icca-neighbours.placeholder": {
     "description": "An example to guide the user for field '7-icca-neighbours'",
-    "message": "¿Se ha acordado el límite con todos los pueblos vecinos?"
+    "message": "¿El límite ha sido acordado con todos los pueblos vecinos?"
   },
   "fields.8-icca-sharing.helperText": {
     "description": "Descriptive text for field '8-icca-sharing'",
-    "message": "¿La zona está delimitada por el límite utilizado y ocupado exclusivamente por tu pueblo o es compartida con otros pueblos o comunidades?"
+    "message": "¿La zona delimitada por el límite es utilizada y ocupada exclusivamente por su pueblo o es compartida con otros pueblos o comunidades?"
   },
   "fields.8-icca-sharing.label": {
     "description": "Label for field '8-icca-sharing'",
-    "message": "8. Uso compartido TICCA"
+    "message": "8. Uso compartido del TICCA"
   },
   "fields.8-icca-sharing.placeholder": {
     "description": "An example to guide the user for field '8-icca-sharing'",
-    "message": "¿Comparte el TICCA con otros pueblos de comunidades?"
+    "message": "¿El TICCA es compartido con otros pueblos o comunidades?"
   },
   "fields.9-icca-decision-making.helperText": {
     "description": "Descriptive text for field '9-icca-decision-making'",
-    "message": "Seleccione \"Gobernanza colaborativa\" si una entidad es responsable pero se requiere que consulte con otras. Seleccione \"Gobernanza conjunta\" si dos o más entidades son conjuntamente responsables"
+    "message": "Seleccione \"Gobernanza colaborativa\" si una entidad es responsable pero se requiere que consulte con otros. Seleccione \"Gobernanza conjunta\" si dos o más entidades son conjuntamente responsables"
   },
   "fields.9-icca-decision-making.label": {
     "description": "Label for field '9-icca-decision-making'",
@@ -149,19 +149,19 @@
   },
   "fields.culture.label": {
     "description": "Label for field 'culture'",
-    "message": "¿Por qué este lugar es tan importante?"
+    "message": "¿Por qué este lugar es importante?"
   },
   "fields.culture.placeholder": {
     "description": "An example to guide the user for field 'culture'",
-    "message": "¿Qué sucedió aquí, o por qué es importante este lugar para la comunidad?"
+    "message": "¿Qué sucedió aquí, o por qué este lugar es importante para la comunidad?"
   },
   "fields.icca-legal-recognition.helperText": {
     "description": "Descriptive text for field 'icca-legal-recognition'",
-    "message": "La zona está delimitada por el límite legalmente reconocido por sus gobiernos nacionales (pregunta 10, anterior) se refiere al estado de conservación. Esta pregunta se refiere al reconocimiento de los derechos de la tierra dentro de la zona)"
+    "message": "¿La zona delimitada por el límite está legalmente reconocida por sus gobiernos nacionales? (la anterior pregunta 10 se refiere al estado de conservación). Esta pregunta se refiere al reconocimiento de los derechos de la tierra dentro del área)"
   },
   "fields.icca-legal-recognition.label": {
     "description": "Label for field 'icca-legal-recognition'",
-    "message": "Derechos de tierra TICCA"
+    "message": "Derechos de tierras del TICCA"
   },
   "fields.name.label": {
     "description": "Label for field 'name'",
@@ -181,23 +181,23 @@
   },
   "presets.boundary-icca-area-notake.name": {
     "description": "The name of preset 'boundary-icca-area-notake'",
-    "message": "Límite TICCA"
+    "message": "Límite del TICCA"
   },
   "presets.boundary-icca-area-notake.terms": {
     "description": "List of search terms for preset 'boundary-icca-area-notake'",
-    "message": "límite, límite, ticca"
+    "message": "límite,ticca,confín,borde,ticca"
   },
   "presets.boundary-icca-area-sea-notake.name": {
     "description": "The name of preset 'boundary-icca-area-sea-notake'",
-    "message": "Límite TICCA"
+    "message": "Límite del TICCA"
   },
   "presets.boundary-icca-area-sea-notake.terms": {
     "description": "List of search terms for preset 'boundary-icca-area-sea-notake'",
-    "message": "límite, límite, ticca"
+    "message": "límite,ticca,confín,borde,ticca"
   },
   "presets.boundary-icca-area-sea.name": {
     "description": "The name of preset 'boundary-icca-area-sea'",
-    "message": "Límite TICCA"
+    "message": "Límite del TICCA"
   },
   "presets.boundary-icca-area-sea.terms": {
     "description": "List of search terms for preset 'boundary-icca-area-sea'",
