@@ -1,0 +1,60 @@
+{
+  "key": "icca-threats",
+  "type": "select_multiple",
+  "label": "12. What are the major threats and challenges for the ICCA if any?",
+  "helperText": "For example, threats to the ICCA’s continued existence, or to its biodiversity.",
+  "options": [
+    {
+      "label": "Decline in quality or quantity of biodiversity or nature (e.g., clean water and air, healthy soil)",
+      "value": "biodiversity_decline"
+    },
+    {
+      "label": "Negative impacts of tourism",
+      "value": "tourism"
+    },
+    {
+      "label": "National laws, policies or practices",
+      "value": "national_laws"
+    },
+    {
+      "label": "Other protected areas overlapping",
+      "value": "areas_overlapping"
+    },
+    {
+      "label": "Unwanted development pressures",
+      "value": "development_pressures"
+    },
+    {
+      "label": "Extraction (e.g., hunting, mining, logging or fishing)",
+      "value": "extraction"
+    },
+    {
+      "label": "Climate change (e.g., rapidly changing temperature and precipitation patterns, sea level rise, extreme weather events)",
+      "value": "climate_change"
+    },
+    {
+      "label": "Invasive or non-native species",
+      "value": "invasive_species"
+    },
+    {
+      "label": "Over-harvesting (specify if from within or outside the community) ",
+      "value": "overharvesting"
+    },
+    {
+      "label": "Inappropriate management (e.g., management approaches or practices that are detrimental to the ICCA’s biodiversity or other values)",
+      "value": "bad_management"
+    },
+    {
+      "label": "De-legitimisation of customary rights",
+      "value": "delegitimisation_of_rights"
+    },
+    {
+      "label": "There are no current threats",
+      "value": "none"
+    },
+    {
+      "label": "Other (please describe under the final question)",
+      "value": "other"
+    }
+  ]
+}

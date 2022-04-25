@@ -2,5 +2,6 @@
   "key": "name",
   "type": "text",
   "appearance": "singleline",
-  "label": "1. Name of ICCA"
+  "label": "1. Name of the ICCA",
+  "placeholder": "English or original language"
 }
