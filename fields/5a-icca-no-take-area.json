@@ -1,0 +1,8 @@
+{
+  "key": "icca-no-take-area",
+  "type": "text",
+  "appearance": "singleline",
+  "label": "5a. Size of no-take area (km²)",
+  "placeholder": "Size in square kilometres",
+  "helperText": "What is the size, in kilometres-squared, of the no-take area?"
+}
