@@ -1,7 +1,0 @@
-{
-  "key": "icca-neighbours",
-  "type": "text",
-  "label": "7. Boundary agreements with neighbours",
-  "helperText": "If the boundary has been agreed with neighbours, indicate the name and location of neighbours and the dates of agreements. If the boundary has not been agreed, please indicate the status of negotiations of discussions. You may put \"Not applicable\" if there are no other peoples neighbouring the ICCA.",
-  "placeholder": "Has the boundary been agreed with all neighbouring peoples?"
-}

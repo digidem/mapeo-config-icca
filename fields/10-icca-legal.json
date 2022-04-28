@@ -1,0 +1,43 @@
+{
+  "key": "icca-legal",
+  "type": "select_one",
+  "label": "10. Who legally (according to state law) owns the land/sea on which the ICCA is situated? ",
+  "options": [
+    {
+      "label": "Communal: owned by one or more communities/indigenous peoples ",
+      "value": "communal"
+    },
+    {
+      "label": "State: owned by the state/government ",
+      "value": "state"
+    },
+    {
+      "label": "Individual landowners: owned by individual landowners ",
+      "value": "landowners"
+    },
+    {
+      "label": "For-profit organisation(s): owned by for-profit organisations ",
+      "value": "for_profit"
+    },
+    {
+      "label": "Non-profit organisation(s): owned by non-profit organisations ",
+      "value": "none_profit"
+    },
+    {
+      "label": "Joint ownership: owned collectively by two or more of the above entities ",
+      "value": "joint_ownership"
+    },
+    {
+      "label": "Multiple ownership: different parts of the land/sea are owned by different entities ",
+      "value": "multiple_ownerships"
+    },
+    {
+      "label": "Contested: more than one entity claims ownership of the ICCA ",
+      "value": "contested"
+    },
+    {
+      "label": "Not Reported: ownership type is not known",
+      "value": "not_reported"
+    }
+  ]
+}

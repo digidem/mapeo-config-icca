@@ -6,26 +6,34 @@
     "3-icca-area",
     "4-icca-land-sea",
     "4a-icca-sea-area",
-    "5-icca-no-take",
+    "5-icca-decision-maker",
     "5a-icca-no-take-area",
-    "6-icca-boundary-criteria",
-    "7-icca-neighbours",
-    "8-icca-sharing",
-    "9-icca-decision-making",
-    "10-icca-conservation-status",
-    "11-icca-year",
-    "12-icca-type",
-    "13-icca-objectives",
+    "6-icca-status",
+    "7-icca-year",
+    "8-icca-type",
+    "9-icca-objectives",
+    "10-icca-legal",
+    "11-icca-legal-rights",
+    "12-icca-threats",
+    "13-icca-support",
     "14-icca-other"
   ],
-
-  "geometry": ["area", "line"],
+  "geometry": [
+    "area",
+    "line"
+  ],
   "tags": {
     "boundary": "protected_area",
     "protection_title": "icca",
     "icca-land-sea": "land_and_sea",
     "icca-no-take": "yes"
   },
-  "terms": ["boundary", "icca", "border", "limit", "icca"],
+  "terms": [
+    "boundary",
+    "icca",
+    "border",
+    "limit",
+    "icca"
+  ],
   "name": "ICCA Boundary"
 }

@@ -1,0 +1,39 @@
+{
+  "key": "icca-legal-rights",
+  "type": "select_one",
+  "label": "11. What are the legal rights (under the state legal system) of the community to us ethe resources within the ICCA, excluding subsurface resources?",
+  "options": [
+    {
+      "label": "Full legal rights to all resources ",
+      "value": "full"
+    },
+    {
+      "label": "Legal rights to all resources, within certain constraints (e.g. legal regulations/limitations) ",
+      "value": "with_limitations"
+    },
+    {
+      "label": "De facto rights to all resources (full control of resources, although not in law) ",
+      "value": "de_facto"
+    },
+    {
+      "label": "Temporal/ seasonal rights to resources ",
+      "value": "temporal"
+    },
+    {
+      "label": "Rights to only certain resources/ a set amount ",
+      "value": "only_certain"
+    },
+    {
+      "label": "Protection of resources only: no use allowed ",
+      "value": "protection_only"
+    },
+    {
+      "label": "Rights to commercial use of the resources ",
+      "value": "only_coomercial"
+    },
+    {
+      "label": "Other (please describe under the final question)",
+      "value": "other"
+    }
+  ]
+}

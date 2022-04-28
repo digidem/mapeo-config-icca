@@ -1,8 +1,8 @@
 {
   "key": "icca-objectives",
   "type": "select_multiple",
-  "label": "13. ICCA Objectives",
-  "helperText": "What are the main objectives of managing the ICCA?",
+  "label": "9. Objectives: what are the main objectives of managing the ICCA?",
+  "helperText": "Please select up to 3.",
   "options": [
     {
       "label": "Supporting traditional livelihoods",

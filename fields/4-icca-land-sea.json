@@ -9,7 +9,7 @@
       "value": "sea"
     },
     {
-      "label": "Both land and sea",
+      "label": "Covers land (and/or freshwater) and sea",
       "value": "land_and_sea"
     }
   ]

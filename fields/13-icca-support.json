@@ -1,0 +1,63 @@
+{
+  "key": "icca-support",
+  "type": "select_multiple",
+  "label": "13. What forms of support has the community self-identified as most needed for the ICCA?",
+  "options": [
+    {
+      "label": "Political empowerment",
+      "value": "political_empowerment"
+    },
+    {
+      "label": "Cultural or social empowerment",
+      "value": "cultural_empowerment"
+    },
+    {
+      "label": "Appropriate recognition (legal or otherwise) from state authorities and/or other organisations",
+      "value": "recognition"
+    },
+    {
+      "label": "Health services",
+      "value": "health_services"
+    },
+    {
+      "label": "Education services",
+      "value": "education_services"
+    },
+    {
+      "label": "Equipment, e.g. GIS software, cameras, video recorders, computers ",
+      "value": "equipment"
+    },
+    {
+      "label": "Technical capacity-building: IT, analytical or problem-solving skills, management plan guidance",
+      "value": "technical"
+    },
+    {
+      "label": "Legal support (e.g., to file claims or resist external projects through litigation)",
+      "value": "legal"
+    },
+    {
+      "label": "Enhanced organisational/ internal capacity ",
+      "value": "organisational"
+    },
+    {
+      "label": "Partnerships for self-determined development initiatives and sustainable livelihoods",
+      "value": "development_initiatives"
+    },
+    {
+      "label": "Collaboration or communication with other ICCAs ",
+      "value": "collaboration_with_other_icca"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "financial"
+    },
+    {
+      "label": "No support needed",
+      "value": "none"
+    },
+    {
+      "label": "Other (please describe under the final question)",
+      "value": "other"
+    }
+  ]
+}

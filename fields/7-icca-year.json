@@ -1,0 +1,8 @@
+{
+  "key": "icca-year",
+  "type": "text",
+  "appearance": "singleline",
+  "label": "7. In which year did this status come into effect? If the status is established, this is the year in which the ICCA first came into being",
+  "placeholder": "4-digit year e.g. 2014",
+  "helperText": "You can also answer \"Unknown\" or \"Time immemorial\""
+}
