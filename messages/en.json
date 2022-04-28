@@ -5,58 +5,58 @@
   },
   "fields.1-name.label": {
     "description": "Label for field '1-name'",
-    "message": "1. Name of ICCA"
+    "message": "1. Name of the ICCA"
   },
   "fields.1-name.placeholder": {
     "description": "An example to guide the user for field '1-name'",
+    "message": "English or original language"
+  },
+  "fields.10-icca-decision-making.helperText": {
+    "description": "Descriptive text for field '10-icca-decision-making'",
     "message": ""
   },
-  "fields.10-icca-conservation-status.helperText": {
-    "description": "Descriptive text for field '10-icca-conservation-status'",
-    "message": "Is the ICCA recognised by the national government for its role in conservation (e.g. as a protected area)? Select \"Designated\" if the ICCA is legally-designated as a protected area or other type of conservation area. Select \"Established\" if the ICCA is established by the indigenous people or local community, but not legally-designated as a protected area or other type of conservation area. Select \"Proposed\" if the ICCA is approved for future legal-designation as a protected area or other type of conservation area"
+  "fields.10-icca-decision-making.label": {
+    "description": "Label for field '10-icca-decision-making'",
+    "message": "10. Who legally (according to state law) owns the land/sea on which the ICCA is situated? "
   },
-  "fields.10-icca-conservation-status.label": {
-    "description": "Label for field '10-icca-conservation-status'",
-    "message": "10. ICCA government recognition status"
-  },
-  "fields.10-icca-conservation-status.placeholder": {
-    "description": "An example to guide the user for field '10-icca-conservation-status'",
+  "fields.10-icca-decision-making.placeholder": {
+    "description": "An example to guide the user for field '10-icca-decision-making'",
     "message": ""
   },
-  "fields.11-icca-year.helperText": {
-    "description": "Descriptive text for field '11-icca-year'",
-    "message": "In which year did this status come into effect? If the status is established, this is the year in which the ICCA first came into being. You can also answer \"Unknown\" or \"Time immemorial\""
-  },
-  "fields.11-icca-year.label": {
-    "description": "Label for field '11-icca-year'",
-    "message": "11. Year ICCA established"
-  },
-  "fields.11-icca-year.placeholder": {
-    "description": "An example to guide the user for field '11-icca-year'",
-    "message": "4-digit year e.g. 2014"
-  },
-  "fields.12-icca-type.helperText": {
-    "description": "Descriptive text for field '12-icca-type'",
-    "message": "This can be the legal designation of the ICCA, e.g. Indigenous Reserve, or the type of ICCA as defined by the indigenous people or community, e.g. sacred site."
-  },
-  "fields.12-icca-type.label": {
-    "description": "Label for field '12-icca-type'",
-    "message": "12. Type of ICCA"
-  },
-  "fields.12-icca-type.placeholder": {
-    "description": "An example to guide the user for field '12-icca-type'",
+  "fields.11-icca-legal.helperText": {
+    "description": "Descriptive text for field '11-icca-legal'",
     "message": ""
   },
-  "fields.13-icca-objectives.helperText": {
-    "description": "Descriptive text for field '13-icca-objectives'",
-    "message": "What are the main objectives of managing the ICCA?"
+  "fields.11-icca-legal.label": {
+    "description": "Label for field '11-icca-legal'",
+    "message": "11. What are the legal rights (under the state legal system) of the community to us ethe resources within the ICCA, excluding subsurface resources?"
   },
-  "fields.13-icca-objectives.label": {
-    "description": "Label for field '13-icca-objectives'",
-    "message": "13. ICCA Objectives"
+  "fields.11-icca-legal.placeholder": {
+    "description": "An example to guide the user for field '11-icca-legal'",
+    "message": ""
   },
-  "fields.13-icca-objectives.placeholder": {
-    "description": "An example to guide the user for field '13-icca-objectives'",
+  "fields.12-icca-threats.helperText": {
+    "description": "Descriptive text for field '12-icca-threats'",
+    "message": "For example, threats to the ICCA’s continued existence, or to its biodiversity."
+  },
+  "fields.12-icca-threats.label": {
+    "description": "Label for field '12-icca-threats'",
+    "message": "12. What are the major threats and challenges for the ICCA if any?"
+  },
+  "fields.12-icca-threats.placeholder": {
+    "description": "An example to guide the user for field '12-icca-threats'",
+    "message": ""
+  },
+  "fields.13-icca-support.helperText": {
+    "description": "Descriptive text for field '13-icca-support'",
+    "message": ""
+  },
+  "fields.13-icca-support.label": {
+    "description": "Label for field '13-icca-support'",
+    "message": "13. What forms of support has the community self-identified as most needed for the ICCA?"
+  },
+  "fields.13-icca-support.placeholder": {
+    "description": "An example to guide the user for field '13-icca-support'",
     "message": ""
   },
   "fields.14-icca-other.helperText": {
@@ -125,7 +125,7 @@
   },
   "fields.5-icca-no-take.label": {
     "description": "Label for field '5-icca-no-take'",
-    "message": "5. Is there a no-take area?"
+    "message": "5. Who is accountable for the decision-making and rules of the ICCA?"
   },
   "fields.5-icca-no-take.placeholder": {
     "description": "An example to guide the user for field '5-icca-no-take'",
@@ -143,52 +143,52 @@
     "description": "An example to guide the user for field '5a-icca-no-take-area'",
     "message": "Size in square kilometres"
   },
-  "fields.6-icca-boundary-criteria.helperText": {
-    "description": "Descriptive text for field '6-icca-boundary-criteria'",
-    "message": "Describe the criteria used to determine the boundary of the ICCA, e.g. is it an area of traditional resource use and occupation, or actual resource use and occupation, or a site of cultural or historical significance?"
+  "fields.6-icca-status.helperText": {
+    "description": "Descriptive text for field '6-icca-status'",
+    "message": "(e.g., as a protected area)"
   },
-  "fields.6-icca-boundary-criteria.label": {
-    "description": "Label for field '6-icca-boundary-criteria'",
-    "message": "6. How was the boundary determined?"
+  "fields.6-icca-status.label": {
+    "description": "Label for field '6-icca-status'",
+    "message": "6. Status: is the ICCA recognised by the national government for its role in conservation?"
   },
-  "fields.6-icca-boundary-criteria.placeholder": {
-    "description": "An example to guide the user for field '6-icca-boundary-criteria'",
-    "message": "Describe the criteria used to determine the boundary"
+  "fields.6-icca-status.placeholder": {
+    "description": "An example to guide the user for field '6-icca-status'",
+    "message": ""
   },
-  "fields.7-icca-neighbours.helperText": {
-    "description": "Descriptive text for field '7-icca-neighbours'",
-    "message": "If the boundary has been agreed with neighbours, indicate the name and location of neighbours and the dates of agreements. If the boundary has not been agreed, please indicate the status of negotiations of discussions. You may put \"Not applicable\" if there are no other peoples neighbouring the ICCA."
+  "fields.7-icca-year.helperText": {
+    "description": "Descriptive text for field '7-icca-year'",
+    "message": "You can also answer \"Unknown\" or \"Time immemorial\""
   },
-  "fields.7-icca-neighbours.label": {
-    "description": "Label for field '7-icca-neighbours'",
-    "message": "7. Boundary agreements with neighbours"
+  "fields.7-icca-year.label": {
+    "description": "Label for field '7-icca-year'",
+    "message": "7. In which year did this status come into effect? If the status is established, this is the year in which the ICCA first came into being"
   },
-  "fields.7-icca-neighbours.placeholder": {
-    "description": "An example to guide the user for field '7-icca-neighbours'",
-    "message": "Has the boundary been agreed with all neighbouring peoples?"
+  "fields.7-icca-year.placeholder": {
+    "description": "An example to guide the user for field '7-icca-year'",
+    "message": "4-digit year e.g. 2014"
   },
-  "fields.8-icca-sharing.helperText": {
-    "description": "Descriptive text for field '8-icca-sharing'",
-    "message": "Is the area delimited by the boundary used and occupied exclusively by your people or is it shared with other peoples or communities?"
+  "fields.8-icca-type.helperText": {
+    "description": "Descriptive text for field '8-icca-type'",
+    "message": "(this can be the legal designation of the ICCA, e.g. Indigenous Reserve, or the type of ICCA as defined by the indigenous people or community, e.g. sacred site)."
   },
-  "fields.8-icca-sharing.label": {
-    "description": "Label for field '8-icca-sharing'",
-    "message": "8. ICCA shared use"
+  "fields.8-icca-type.label": {
+    "description": "Label for field '8-icca-type'",
+    "message": "8. Type of ICCA"
   },
-  "fields.8-icca-sharing.placeholder": {
-    "description": "An example to guide the user for field '8-icca-sharing'",
-    "message": "Is the ICCA shared with other peoples of communities?"
+  "fields.8-icca-type.placeholder": {
+    "description": "An example to guide the user for field '8-icca-type'",
+    "message": "English or original language"
   },
-  "fields.9-icca-decision-making.helperText": {
-    "description": "Descriptive text for field '9-icca-decision-making'",
-    "message": "Select \"Collaborative governance\" if one entity is responsible but is required to consult with others. Select \"Joint Governance\" if two or more entities are jointly responsible"
+  "fields.9-icca-objectives.helperText": {
+    "description": "Descriptive text for field '9-icca-objectives'",
+    "message": "Please select up to 3."
   },
-  "fields.9-icca-decision-making.label": {
-    "description": "Label for field '9-icca-decision-making'",
-    "message": "9. Who is responsible for the decision-making and rules of the ICCA?"
+  "fields.9-icca-objectives.label": {
+    "description": "Label for field '9-icca-objectives'",
+    "message": "9. Objectives: what are the main objectives of managing the ICCA?"
   },
-  "fields.9-icca-decision-making.placeholder": {
-    "description": "An example to guide the user for field '9-icca-decision-making'",
+  "fields.9-icca-objectives.placeholder": {
+    "description": "An example to guide the user for field '9-icca-objectives'",
     "message": ""
   },
   "fields.culture.helperText": {
