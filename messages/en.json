@@ -11,28 +11,28 @@
     "description": "An example to guide the user for field '1-name'",
     "message": "English or original language"
   },
-  "fields.10-icca-decision-making.helperText": {
-    "description": "Descriptive text for field '10-icca-decision-making'",
+  "fields.10-icca-legal.helperText": {
+    "description": "Descriptive text for field '10-icca-legal'",
     "message": ""
   },
-  "fields.10-icca-decision-making.label": {
-    "description": "Label for field '10-icca-decision-making'",
+  "fields.10-icca-legal.label": {
+    "description": "Label for field '10-icca-legal'",
     "message": "10. Who legally (according to state law) owns the land/sea on which the ICCA is situated? "
   },
-  "fields.10-icca-decision-making.placeholder": {
-    "description": "An example to guide the user for field '10-icca-decision-making'",
+  "fields.10-icca-legal.placeholder": {
+    "description": "An example to guide the user for field '10-icca-legal'",
     "message": ""
   },
-  "fields.11-icca-legal.helperText": {
-    "description": "Descriptive text for field '11-icca-legal'",
+  "fields.11-icca-legal-rights.helperText": {
+    "description": "Descriptive text for field '11-icca-legal-rights'",
     "message": ""
   },
-  "fields.11-icca-legal.label": {
-    "description": "Label for field '11-icca-legal'",
+  "fields.11-icca-legal-rights.label": {
+    "description": "Label for field '11-icca-legal-rights'",
     "message": "11. What are the legal rights (under the state legal system) of the community to us ethe resources within the ICCA, excluding subsurface resources?"
   },
-  "fields.11-icca-legal.placeholder": {
-    "description": "An example to guide the user for field '11-icca-legal'",
+  "fields.11-icca-legal-rights.placeholder": {
+    "description": "An example to guide the user for field '11-icca-legal-rights'",
     "message": ""
   },
   "fields.12-icca-threats.helperText": {
@@ -119,16 +119,16 @@
     "description": "An example to guide the user for field '4a-icca-sea-area'",
     "message": ""
   },
-  "fields.5-icca-no-take.helperText": {
-    "description": "Descriptive text for field '5-icca-no-take'",
+  "fields.5-icca-decision-maker.helperText": {
+    "description": "Descriptive text for field '5-icca-decision-maker'",
     "message": "Is there a part of the ICCA where no natural resources can be taken or used (a no-take area)? This can be seasonal, temporary or permanent."
   },
-  "fields.5-icca-no-take.label": {
-    "description": "Label for field '5-icca-no-take'",
+  "fields.5-icca-decision-maker.label": {
+    "description": "Label for field '5-icca-decision-maker'",
     "message": "5. Who is accountable for the decision-making and rules of the ICCA?"
   },
-  "fields.5-icca-no-take.placeholder": {
-    "description": "An example to guide the user for field '5-icca-no-take'",
+  "fields.5-icca-decision-maker.placeholder": {
+    "description": "An example to guide the user for field '5-icca-decision-maker'",
     "message": ""
   },
   "fields.5a-icca-no-take-area.helperText": {

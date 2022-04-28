@@ -1,5 +1,5 @@
 {
-  "key": "icca-no-take",
+  "key": "icca-decision-maker",
   "type": "select_one",
   "label": "5. Who is accountable for the decision-making and rules of the ICCA?",
   "helperText": "Is there a part of the ICCA where no natural resources can be taken or used (a no-take area)? This can be seasonal, temporary or permanent.",
