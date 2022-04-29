@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/digidem/mapeo-config-icca/compare/v1.4.1...v1.5.0) (2022-04-29)
+
+
+### Features
+
+* update questions and options ([#12](https://github.com/digidem/mapeo-config-icca/issues/12)) ([c780950](https://github.com/digidem/mapeo-config-icca/commit/c780950861588ecb8d9dd7bf6991d89c2384ff81))
+
 ### 1.4.1 (2022-03-01)
 
 ## [1.4.0](https://github.com/digidem/presets-icca/compare/v1.3.0...v1.4.0) (2020-04-21)
