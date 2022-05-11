@@ -1,7 +1,7 @@
 {
   "key": "icca-threats",
   "type": "select_multiple",
-  "label": "12. What are the major threats and challenges for the ICCA if any?",
+  "label": "12. What are the major threats and challenges for the ICCA if any? (Please only select up to three)",
   "helperText": "For example, threats to the ICCA’s continued existence, or to its biodiversity.",
   "options": [
     {

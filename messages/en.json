@@ -41,7 +41,7 @@
   },
   "fields.12-icca-threats.label": {
     "description": "Label for field '12-icca-threats'",
-    "message": "12. What are the major threats and challenges for the ICCA if any?"
+    "message": "12. What are the major threats and challenges for the ICCA if any? (Please only select up to three)"
   },
   "fields.12-icca-threats.placeholder": {
     "description": "An example to guide the user for field '12-icca-threats'",
@@ -53,7 +53,7 @@
   },
   "fields.13-icca-support.label": {
     "description": "Label for field '13-icca-support'",
-    "message": "13. What forms of support has the community self-identified as most needed for the ICCA?"
+    "message": "13. What forms of support has the community self-identified as most needed for the ICCA? (Please only select up to three)"
   },
   "fields.13-icca-support.placeholder": {
     "description": "An example to guide the user for field '13-icca-support'",
@@ -61,7 +61,7 @@
   },
   "fields.14-icca-other.helperText": {
     "description": "Descriptive text for field '14-icca-other'",
-    "message": "Any other important information you would like to share"
+    "message": "Free-text, up to 1000 words"
   },
   "fields.14-icca-other.label": {
     "description": "Label for field '14-icca-other'",
@@ -89,7 +89,7 @@
   },
   "fields.3-icca-area.label": {
     "description": "Label for field '3-icca-area'",
-    "message": "3. Area of ICCA (km²)"
+    "message": "3. Size of the ICCA (km2) "
   },
   "fields.3-icca-area.placeholder": {
     "description": "An example to guide the user for field '3-icca-area'",
@@ -121,7 +121,7 @@
   },
   "fields.5-icca-decision-maker.helperText": {
     "description": "Descriptive text for field '5-icca-decision-maker'",
-    "message": "Is there a part of the ICCA where no natural resources can be taken or used (a no-take area)? This can be seasonal, temporary or permanent."
+    "message": ""
   },
   "fields.5-icca-decision-maker.label": {
     "description": "Label for field '5-icca-decision-maker'",
