@@ -2,6 +2,6 @@
   "key": "icca-other",
   "type": "text",
   "label": "14. Anything else?",
-  "helperText": "Any other important information you would like to share",
+  "helperText": "Free-text, up to 1000 words",
   "placeholder": "Any other important information you would like to share"
 }

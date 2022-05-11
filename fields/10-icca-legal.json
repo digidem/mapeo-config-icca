@@ -8,31 +8,31 @@
       "value": "communal"
     },
     {
-      "label": "State: owned by the state/government ",
+      "label": "State: owned by the state/government",
       "value": "state"
     },
     {
-      "label": "Individual landowners: owned by individual landowners ",
+      "label": "Individual landowners: owned by individual landowners",
       "value": "landowners"
     },
     {
-      "label": "For-profit organisation(s): owned by for-profit organisations ",
+      "label": "For-profit organisation(s): owned by for-profit organisations",
       "value": "for_profit"
     },
     {
-      "label": "Non-profit organisation(s): owned by non-profit organisations ",
+      "label": "Non-profit organisation(s): owned by non-profit organisations",
       "value": "none_profit"
     },
     {
-      "label": "Joint ownership: owned collectively by two or more of the above entities ",
+      "label": "Joint ownership: owned collectively by two or more of the above entities",
       "value": "joint_ownership"
     },
     {
-      "label": "Multiple ownership: different parts of the land/sea are owned by different entities ",
+      "label": "Multiple ownership: different parts of the land/sea are owned by different entities",
       "value": "multiple_ownerships"
     },
     {
-      "label": "Contested: more than one entity claims ownership of the ICCA ",
+      "label": "Contested: more than one entity claims ownership of the ICCA",
       "value": "contested"
     },
     {

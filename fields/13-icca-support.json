@@ -1,7 +1,7 @@
 {
   "key": "icca-support",
   "type": "select_multiple",
-  "label": "13. What forms of support has the community self-identified as most needed for the ICCA?",
+  "label": "13. What forms of support has the community self-identified as most needed for the ICCA? (Please only select up to three)",
   "options": [
     {
       "label": "Political empowerment",
