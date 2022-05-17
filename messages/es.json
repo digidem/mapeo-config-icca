@@ -1,7 +1,7 @@
 {
   "fields.1-name.label": {
     "description": "Label for field '1-name'",
-    "message": "1. Nombre del ICCA"
+    "message": "1. Nombre del TICCA"
   },
   "fields.14-icca-other.label": {
     "description": "Label for field '14-icca-other'",
