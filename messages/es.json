@@ -79,6 +79,10 @@
     "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
     "message": "Derechos temporales o estacionales "
   },
+  "fields.11-icca-legal-rights.options.with_limitations": {
+    "description": "Label for option 'with_limitations' for field '11-icca-legal-rights'",
+    "message": "Derechos legales sobre todos los recursos, con ciertas restricciones (regulaciones o limitaciones) "
+  },
   "fields.12-icca-threats.helperText": {
     "description": "Descriptive text for field '12-icca-threats'",
     "message": "Por ejemplo, amenazas a la existencia del TICCA o a su biodiversidad."
