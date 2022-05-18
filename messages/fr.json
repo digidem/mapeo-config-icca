@@ -159,6 +159,50 @@
     "description": "Label for option 'development_initiatives' for field '13-icca-support'",
     "message": "Partenariats pour des initiatives de développement autodéterminées et des moyens de subsistance durables"
   },
+  "fields.13-icca-support.options.education_services": {
+    "description": "Label for option 'education_services' for field '13-icca-support'",
+    "message": "Services d'éducation"
+  },
+  "fields.13-icca-support.options.equipment": {
+    "description": "Label for option 'equipment' for field '13-icca-support'",
+    "message": "Équipement, par exemple logiciel SIG, caméras, enregistreurs vidéo, ordinateurs "
+  },
+  "fields.13-icca-support.options.financial": {
+    "description": "Label for option 'financial' for field '13-icca-support'",
+    "message": "Aide financière"
+  },
+  "fields.13-icca-support.options.health_services": {
+    "description": "Label for option 'health_services' for field '13-icca-support'",
+    "message": "Services de santé"
+  },
+  "fields.13-icca-support.options.legal": {
+    "description": "Label for option 'legal' for field '13-icca-support'",
+    "message": "Assistance juridique (par exemple, pour déposer des réclamations ou résister à des projets externes par le biais de litiges)"
+  },
+  "fields.13-icca-support.options.none": {
+    "description": "Label for option 'none' for field '13-icca-support'",
+    "message": "Aucun support n'est nécessaire"
+  },
+  "fields.13-icca-support.options.organisational": {
+    "description": "Label for option 'organisational' for field '13-icca-support'",
+    "message": "Renforcement de la capacité organisationnelle/interne "
+  },
+  "fields.13-icca-support.options.other": {
+    "description": "Label for option 'other' for field '13-icca-support'",
+    "message": "Autre (veuillez décrire sous la dernière question)"
+  },
+  "fields.13-icca-support.options.political_empowerment": {
+    "description": "Label for option 'political_empowerment' for field '13-icca-support'",
+    "message": "Autonomisation politique"
+  },
+  "fields.13-icca-support.options.recognition": {
+    "description": "Label for option 'recognition' for field '13-icca-support'",
+    "message": "Reconnaissance appropriée (légale ou autre) des autorités de l'État et/ou d'autres organisations"
+  },
+  "fields.13-icca-support.options.technical": {
+    "description": "Label for option 'technical' for field '13-icca-support'",
+    "message": "Renforcement des capacités techniques: compétences informatiques, analytiques ou de résolution de problèmes, conseils en matière de plan de gestion"
+  },
   "fields.14-icca-other.helperText": {
     "description": "Descriptive text for field '14-icca-other'",
     "message": "Texte libre, jusqu'à 1000 mots"
@@ -195,6 +239,18 @@
     "description": "Label for field '4-icca-land-sea'",
     "message": "4. L'APAC est-elle terrestre, marine ou couvre-t-elle les deux ?"
   },
+  "fields.4-icca-land-sea.options.land": {
+    "description": "Label for option 'land' for field '4-icca-land-sea'",
+    "message": "Entièrement sur terre et/ou en eau douce"
+  },
+  "fields.4-icca-land-sea.options.land_and_sea": {
+    "description": "Label for option 'land_and_sea' for field '4-icca-land-sea'",
+    "message": "Couvre la terre (et/ou l'eau douce) et la mer"
+  },
+  "fields.4-icca-land-sea.options.sea": {
+    "description": "Label for option 'sea' for field '4-icca-land-sea'",
+    "message": "Entièrement en mer"
+  },
   "fields.4a-icca-sea-area.helperText": {
     "description": "Descriptive text for field '4a-icca-sea-area'",
     "message": "Si l'APAC inclut une zone dans la mer, quelle est la superficie, en kilomètres-carrés, de cette partie ?"
@@ -206,6 +262,22 @@
   "fields.5-icca-decision-maker.label": {
     "description": "Label for field '5-icca-decision-maker'",
     "message": "5. Qui est responsable de la prise de décision et des règles de l’APAC?"
+  },
+  "fields.5-icca-decision-maker.options.collaborative_governance": {
+    "description": "Label for option 'collaborative_governance' for field '5-icca-decision-maker'",
+    "message": "Gouvernance collaborative (une entité est responsable, mais doit consulter les autres)"
+  },
+  "fields.5-icca-decision-maker.options.indigenous_people": {
+    "description": "Label for option 'indigenous_people' for field '5-icca-decision-maker'",
+    "message": "Population(s) autochtone(s)"
+  },
+  "fields.5-icca-decision-maker.options.joint_governance": {
+    "description": "Label for option 'joint_governance' for field '5-icca-decision-maker'",
+    "message": "Gouvernance conjointe (deux ou plusieurs entités sont conjointement responsables)"
+  },
+  "fields.5-icca-decision-maker.options.local_community": {
+    "description": "Label for option 'local_community' for field '5-icca-decision-maker'",
+    "message": "Communauté(s) locale(s)"
   },
   "fields.5a-icca-no-take-area.helperText": {
     "description": "Descriptive text for field '5a-icca-no-take-area'",
@@ -226,6 +298,18 @@
   "fields.6-icca-status.label": {
     "description": "Label for field '6-icca-status'",
     "message": "6. Statut: l'APAC est-elle reconnue par le gouvernement national pour son rôle dans la conservation?"
+  },
+  "fields.6-icca-status.options.designated": {
+    "description": "Label for option 'designated' for field '6-icca-status'",
+    "message": "Désignée: désignée légalement comme aire protégée ou autre type d'aire de conservation"
+  },
+  "fields.6-icca-status.options.established": {
+    "description": "Label for option 'established' for field '6-icca-status'",
+    "message": "Établie: établie par le peuple autochtone ou la communauté locale, mais non légalement désignée comme aire protégée ou autre type d'aire de conservation"
+  },
+  "fields.6-icca-status.options.proposed": {
+    "description": "Label for option 'proposed' for field '6-icca-status'",
+    "message": "Proposée: approuvée pour une future désignation légale en tant qu'aire protégée ou autre type d'aire de conservation "
   },
   "fields.7-icca-year.helperText": {
     "description": "Descriptive text for field '7-icca-year'",
@@ -258,6 +342,14 @@
   "fields.9-icca-objectives.label": {
     "description": "Label for field '9-icca-objectives'",
     "message": "9. Objectifs : quels sont les principaux objectifs de la gestion de l'APAC?"
+  },
+  "fields.9-icca-objectives.options.conservation": {
+    "description": "Label for option 'conservation' for field '9-icca-objectives'",
+    "message": "Biodiversité/conservation des espèces"
+  },
+  "fields.9-icca-objectives.options.cultural_preservation": {
+    "description": "Label for option 'cultural_preservation' for field '9-icca-objectives'",
+    "message": "Préservation culturelle/traditionnelle"
   },
   "fields.culture.label": {
     "description": "Label for field 'culture'",
