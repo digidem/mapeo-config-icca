@@ -19,6 +19,42 @@
     "description": "Label for field '10-icca-legal'",
     "message": "10. Who legally (according to state law) owns the land/sea on which the ICCA is situated? "
   },
+  "fields.10-icca-legal.options.communal": {
+    "description": "Label for option 'communal' for field '10-icca-legal'",
+    "message": "Communal: owned by one or more communities/indigenous peoples "
+  },
+  "fields.10-icca-legal.options.contested": {
+    "description": "Label for option 'contested' for field '10-icca-legal'",
+    "message": "Contested: more than one entity claims ownership of the ICCA"
+  },
+  "fields.10-icca-legal.options.for_profit": {
+    "description": "Label for option 'for_profit' for field '10-icca-legal'",
+    "message": "For-profit organisation(s): owned by for-profit organisations"
+  },
+  "fields.10-icca-legal.options.joint_ownership": {
+    "description": "Label for option 'joint_ownership' for field '10-icca-legal'",
+    "message": "Joint ownership: owned collectively by two or more of the above entities"
+  },
+  "fields.10-icca-legal.options.landowners": {
+    "description": "Label for option 'landowners' for field '10-icca-legal'",
+    "message": "Individual landowners: owned by individual landowners"
+  },
+  "fields.10-icca-legal.options.multiple_ownerships": {
+    "description": "Label for option 'multiple_ownerships' for field '10-icca-legal'",
+    "message": "Multiple ownership: different parts of the land/sea are owned by different entities"
+  },
+  "fields.10-icca-legal.options.none_profit": {
+    "description": "Label for option 'none_profit' for field '10-icca-legal'",
+    "message": "Non-profit organisation(s): owned by non-profit organisations"
+  },
+  "fields.10-icca-legal.options.not_reported": {
+    "description": "Label for option 'not_reported' for field '10-icca-legal'",
+    "message": "Not Reported: ownership type is not known"
+  },
+  "fields.10-icca-legal.options.state": {
+    "description": "Label for option 'state' for field '10-icca-legal'",
+    "message": "State: owned by the state/government"
+  },
   "fields.10-icca-legal.placeholder": {
     "description": "An example to guide the user for field '10-icca-legal'",
     "message": ""
@@ -30,6 +66,38 @@
   "fields.11-icca-legal-rights.label": {
     "description": "Label for field '11-icca-legal-rights'",
     "message": "11. What are the legal rights (under the state legal system) of the community to us ethe resources within the ICCA, excluding subsurface resources?"
+  },
+  "fields.11-icca-legal-rights.options.de_facto": {
+    "description": "Label for option 'de_facto' for field '11-icca-legal-rights'",
+    "message": "De facto rights to all resources (full control of resources, although not in law) "
+  },
+  "fields.11-icca-legal-rights.options.full": {
+    "description": "Label for option 'full' for field '11-icca-legal-rights'",
+    "message": "Full legal rights to all resources "
+  },
+  "fields.11-icca-legal-rights.options.only_certain": {
+    "description": "Label for option 'only_certain' for field '11-icca-legal-rights'",
+    "message": "Rights to only certain resources/ a set amount "
+  },
+  "fields.11-icca-legal-rights.options.only_coomercial": {
+    "description": "Label for option 'only_coomercial' for field '11-icca-legal-rights'",
+    "message": "Rights to commercial use of the resources "
+  },
+  "fields.11-icca-legal-rights.options.other": {
+    "description": "Label for option 'other' for field '11-icca-legal-rights'",
+    "message": "Other (please describe under the final question)"
+  },
+  "fields.11-icca-legal-rights.options.protection_only": {
+    "description": "Label for option 'protection_only' for field '11-icca-legal-rights'",
+    "message": "Protection of resources only: no use allowed "
+  },
+  "fields.11-icca-legal-rights.options.temporal": {
+    "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
+    "message": "Temporal/ seasonal rights to resources "
+  },
+  "fields.11-icca-legal-rights.options.with_limitations": {
+    "description": "Label for option 'with_limitations' for field '11-icca-legal-rights'",
+    "message": "Legal rights to all resources, within certain constraints (e.g. legal regulations/limitations) "
   },
   "fields.11-icca-legal-rights.placeholder": {
     "description": "An example to guide the user for field '11-icca-legal-rights'",
@@ -43,6 +111,58 @@
     "description": "Label for field '12-icca-threats'",
     "message": "12. What are the major threats and challenges for the ICCA if any? (Please only select up to three)"
   },
+  "fields.12-icca-threats.options.areas_overlapping": {
+    "description": "Label for option 'areas_overlapping' for field '12-icca-threats'",
+    "message": "Other protected areas overlapping"
+  },
+  "fields.12-icca-threats.options.bad_management": {
+    "description": "Label for option 'bad_management' for field '12-icca-threats'",
+    "message": "Inappropriate management (e.g., management approaches or practices that are detrimental to the ICCA’s biodiversity or other values)"
+  },
+  "fields.12-icca-threats.options.biodiversity_decline": {
+    "description": "Label for option 'biodiversity_decline' for field '12-icca-threats'",
+    "message": "Decline in quality or quantity of biodiversity or nature (e.g., clean water and air, healthy soil)"
+  },
+  "fields.12-icca-threats.options.climate_change": {
+    "description": "Label for option 'climate_change' for field '12-icca-threats'",
+    "message": "Climate change (e.g., rapidly changing temperature and precipitation patterns, sea level rise, extreme weather events)"
+  },
+  "fields.12-icca-threats.options.delegitimisation_of_rights": {
+    "description": "Label for option 'delegitimisation_of_rights' for field '12-icca-threats'",
+    "message": "De-legitimisation of customary rights"
+  },
+  "fields.12-icca-threats.options.development_pressures": {
+    "description": "Label for option 'development_pressures' for field '12-icca-threats'",
+    "message": "Unwanted development pressures"
+  },
+  "fields.12-icca-threats.options.extraction": {
+    "description": "Label for option 'extraction' for field '12-icca-threats'",
+    "message": "Extraction (e.g., hunting, mining, logging or fishing)"
+  },
+  "fields.12-icca-threats.options.invasive_species": {
+    "description": "Label for option 'invasive_species' for field '12-icca-threats'",
+    "message": "Invasive or non-native species"
+  },
+  "fields.12-icca-threats.options.national_laws": {
+    "description": "Label for option 'national_laws' for field '12-icca-threats'",
+    "message": "National laws, policies or practices"
+  },
+  "fields.12-icca-threats.options.none": {
+    "description": "Label for option 'none' for field '12-icca-threats'",
+    "message": "There are no current threats"
+  },
+  "fields.12-icca-threats.options.other": {
+    "description": "Label for option 'other' for field '12-icca-threats'",
+    "message": "Other (please describe under the final question)"
+  },
+  "fields.12-icca-threats.options.overharvesting": {
+    "description": "Label for option 'overharvesting' for field '12-icca-threats'",
+    "message": "Over-harvesting (specify if from within or outside the community) "
+  },
+  "fields.12-icca-threats.options.tourism": {
+    "description": "Label for option 'tourism' for field '12-icca-threats'",
+    "message": "Negative impacts of tourism"
+  },
   "fields.12-icca-threats.placeholder": {
     "description": "An example to guide the user for field '12-icca-threats'",
     "message": ""
@@ -54,6 +174,62 @@
   "fields.13-icca-support.label": {
     "description": "Label for field '13-icca-support'",
     "message": "13. What forms of support has the community self-identified as most needed for the ICCA? (Please only select up to three)"
+  },
+  "fields.13-icca-support.options.collaboration_with_other_icca": {
+    "description": "Label for option 'collaboration_with_other_icca' for field '13-icca-support'",
+    "message": "Collaboration or communication with other ICCAs "
+  },
+  "fields.13-icca-support.options.cultural_empowerment": {
+    "description": "Label for option 'cultural_empowerment' for field '13-icca-support'",
+    "message": "Cultural or social empowerment"
+  },
+  "fields.13-icca-support.options.development_initiatives": {
+    "description": "Label for option 'development_initiatives' for field '13-icca-support'",
+    "message": "Partnerships for self-determined development initiatives and sustainable livelihoods"
+  },
+  "fields.13-icca-support.options.education_services": {
+    "description": "Label for option 'education_services' for field '13-icca-support'",
+    "message": "Education services"
+  },
+  "fields.13-icca-support.options.equipment": {
+    "description": "Label for option 'equipment' for field '13-icca-support'",
+    "message": "Equipment, e.g. GIS software, cameras, video recorders, computers "
+  },
+  "fields.13-icca-support.options.financial": {
+    "description": "Label for option 'financial' for field '13-icca-support'",
+    "message": "Financial assistance"
+  },
+  "fields.13-icca-support.options.health_services": {
+    "description": "Label for option 'health_services' for field '13-icca-support'",
+    "message": "Health services"
+  },
+  "fields.13-icca-support.options.legal": {
+    "description": "Label for option 'legal' for field '13-icca-support'",
+    "message": "Legal support (e.g., to file claims or resist external projects through litigation)"
+  },
+  "fields.13-icca-support.options.none": {
+    "description": "Label for option 'none' for field '13-icca-support'",
+    "message": "No support needed"
+  },
+  "fields.13-icca-support.options.organisational": {
+    "description": "Label for option 'organisational' for field '13-icca-support'",
+    "message": "Enhanced organisational/ internal capacity "
+  },
+  "fields.13-icca-support.options.other": {
+    "description": "Label for option 'other' for field '13-icca-support'",
+    "message": "Other (please describe under the final question)"
+  },
+  "fields.13-icca-support.options.political_empowerment": {
+    "description": "Label for option 'political_empowerment' for field '13-icca-support'",
+    "message": "Political empowerment"
+  },
+  "fields.13-icca-support.options.recognition": {
+    "description": "Label for option 'recognition' for field '13-icca-support'",
+    "message": "Appropriate recognition (legal or otherwise) from state authorities and/or other organisations"
+  },
+  "fields.13-icca-support.options.technical": {
+    "description": "Label for option 'technical' for field '13-icca-support'",
+    "message": "Technical capacity-building: IT, analytical or problem-solving skills, management plan guidance"
   },
   "fields.13-icca-support.placeholder": {
     "description": "An example to guide the user for field '13-icca-support'",
@@ -103,6 +279,18 @@
     "description": "Label for field '4-icca-land-sea'",
     "message": "4. Is the ICCA on land, in the sea, or both?"
   },
+  "fields.4-icca-land-sea.options.land": {
+    "description": "Label for option 'land' for field '4-icca-land-sea'",
+    "message": "All on land and/or freshwater"
+  },
+  "fields.4-icca-land-sea.options.land_and_sea": {
+    "description": "Label for option 'land_and_sea' for field '4-icca-land-sea'",
+    "message": "Covers land (and/or freshwater) and sea"
+  },
+  "fields.4-icca-land-sea.options.sea": {
+    "description": "Label for option 'sea' for field '4-icca-land-sea'",
+    "message": "All in the sea"
+  },
   "fields.4-icca-land-sea.placeholder": {
     "description": "An example to guide the user for field '4-icca-land-sea'",
     "message": ""
@@ -127,6 +315,22 @@
     "description": "Label for field '5-icca-decision-maker'",
     "message": "5. Who is accountable for the decision-making and rules of the ICCA?"
   },
+  "fields.5-icca-decision-maker.options.collaborative_governance": {
+    "description": "Label for option 'collaborative_governance' for field '5-icca-decision-maker'",
+    "message": "Collaborative governance (one entity is responsible, but is required to consult with others)"
+  },
+  "fields.5-icca-decision-maker.options.indigenous_people": {
+    "description": "Label for option 'indigenous_people' for field '5-icca-decision-maker'",
+    "message": "Indigenous people/s"
+  },
+  "fields.5-icca-decision-maker.options.joint_governance": {
+    "description": "Label for option 'joint_governance' for field '5-icca-decision-maker'",
+    "message": "Joint governance (two or more entities are jointly responsible)"
+  },
+  "fields.5-icca-decision-maker.options.local_community": {
+    "description": "Label for option 'local_community' for field '5-icca-decision-maker'",
+    "message": "Local community/ies"
+  },
   "fields.5-icca-decision-maker.placeholder": {
     "description": "An example to guide the user for field '5-icca-decision-maker'",
     "message": ""
@@ -150,6 +354,18 @@
   "fields.6-icca-status.label": {
     "description": "Label for field '6-icca-status'",
     "message": "6. Status: is the ICCA recognised by the national government for its role in conservation?"
+  },
+  "fields.6-icca-status.options.designated": {
+    "description": "Label for option 'designated' for field '6-icca-status'",
+    "message": "Designated: legally-designated as a protected area or other type of conservation area"
+  },
+  "fields.6-icca-status.options.established": {
+    "description": "Label for option 'established' for field '6-icca-status'",
+    "message": "Established: established by the indigenous people or local community, but not legally-designated as a protected area or other type of conservation area"
+  },
+  "fields.6-icca-status.options.proposed": {
+    "description": "Label for option 'proposed' for field '6-icca-status'",
+    "message": "Proposed: approved for future legal-designation as a protected area or other type of conservation area "
   },
   "fields.6-icca-status.placeholder": {
     "description": "An example to guide the user for field '6-icca-status'",
@@ -187,6 +403,50 @@
     "description": "Label for field '9-icca-objectives'",
     "message": "9. Objectives: what are the main objectives of managing the ICCA?"
   },
+  "fields.9-icca-objectives.options.conservation": {
+    "description": "Label for option 'conservation' for field '9-icca-objectives'",
+    "message": "Biodiversity/species conservation"
+  },
+  "fields.9-icca-objectives.options.cultural_preservation": {
+    "description": "Label for option 'cultural_preservation' for field '9-icca-objectives'",
+    "message": "Cultural/traditional preservation"
+  },
+  "fields.9-icca-objectives.options.land_ownership": {
+    "description": "Label for option 'land_ownership' for field '9-icca-objectives'",
+    "message": "Land ownership security"
+  },
+  "fields.9-icca-objectives.options.natural_resources": {
+    "description": "Label for option 'natural_resources' for field '9-icca-objectives'",
+    "message": "Maintaining and enhancing natural resources"
+  },
+  "fields.9-icca-objectives.options.other": {
+    "description": "Label for option 'other' for field '9-icca-objectives'",
+    "message": "Other (please describe under the final question 14)"
+  },
+  "fields.9-icca-objectives.options.self_determination": {
+    "description": "Label for option 'self_determination' for field '9-icca-objectives'",
+    "message": "Increasing rights for self determination and empowerment"
+  },
+  "fields.9-icca-objectives.options.spiritual_preservation": {
+    "description": "Label for option 'spiritual_preservation' for field '9-icca-objectives'",
+    "message": "Spiritual/sacred sites preservation"
+  },
+  "fields.9-icca-objectives.options.sustainable_livelihoods": {
+    "description": "Label for option 'sustainable_livelihoods' for field '9-icca-objectives'",
+    "message": "Supporting sustainable livelihoods"
+  },
+  "fields.9-icca-objectives.options.territorial_security": {
+    "description": "Label for option 'territorial_security' for field '9-icca-objectives'",
+    "message": "Territorial security (control of access to land and resources)"
+  },
+  "fields.9-icca-objectives.options.tourism": {
+    "description": "Label for option 'tourism' for field '9-icca-objectives'",
+    "message": "Developing opportunities for tourism"
+  },
+  "fields.9-icca-objectives.options.traditional_livelihoods": {
+    "description": "Label for option 'traditional_livelihoods' for field '9-icca-objectives'",
+    "message": "Supporting traditional livelihoods"
+  },
   "fields.9-icca-objectives.placeholder": {
     "description": "An example to guide the user for field '9-icca-objectives'",
     "message": ""
@@ -210,6 +470,18 @@
   "fields.icca-legal-recognition.label": {
     "description": "Label for field 'icca-legal-recognition'",
     "message": "ICCA land rights"
+  },
+  "fields.icca-legal-recognition.options.full": {
+    "description": "Label for option 'full' for field 'icca-legal-recognition'",
+    "message": "Full recognition"
+  },
+  "fields.icca-legal-recognition.options.none": {
+    "description": "Label for option 'none' for field 'icca-legal-recognition'",
+    "message": "No recognition"
+  },
+  "fields.icca-legal-recognition.options.partial": {
+    "description": "Label for option 'partial' for field 'icca-legal-recognition'",
+    "message": "Partial recognition"
   },
   "fields.icca-legal-recognition.placeholder": {
     "description": "An example to guide the user for field 'icca-legal-recognition'",
@@ -235,6 +507,34 @@
     "description": "Label for field 'resource'",
     "message": "What is found here?"
   },
+  "fields.resource.options.construction_materials": {
+    "description": "Label for option 'construction_materials' for field 'resource'",
+    "message": "Materials for construction"
+  },
+  "fields.resource.options.craft_materials": {
+    "description": "Label for option 'craft_materials' for field 'resource'",
+    "message": "Materials for crafts"
+  },
+  "fields.resource.options.fishing_site": {
+    "description": "Label for option 'fishing_site' for field 'resource'",
+    "message": "Fishing site"
+  },
+  "fields.resource.options.hunting_site": {
+    "description": "Label for option 'hunting_site' for field 'resource'",
+    "message": "Hunting site"
+  },
+  "fields.resource.options.medicinal_plant": {
+    "description": "Label for option 'medicinal_plant' for field 'resource'",
+    "message": "Medicinal plant"
+  },
+  "fields.resource.options.other": {
+    "description": "Label for option 'other' for field 'resource'",
+    "message": "Other"
+  },
+  "fields.resource.options.wild_foods": {
+    "description": "Label for option 'wild_foods' for field 'resource'",
+    "message": "Wild foods"
+  },
   "fields.resource.placeholder": {
     "description": "An example to guide the user for field 'resource'",
     "message": ""
@@ -246,6 +546,46 @@
   "fields.threat.label": {
     "description": "Label for field 'threat'",
     "message": "What is happening here?"
+  },
+  "fields.threat.options.agricultural_impact": {
+    "description": "Label for option 'agricultural_impact' for field 'threat'",
+    "message": "Agricultural impact"
+  },
+  "fields.threat.options.armed_groups": {
+    "description": "Label for option 'armed_groups' for field 'threat'",
+    "message": "Armed groups"
+  },
+  "fields.threat.options.illegal_cultivation": {
+    "description": "Label for option 'illegal_cultivation' for field 'threat'",
+    "message": "Illegal cultivation"
+  },
+  "fields.threat.options.illegal_fishing": {
+    "description": "Label for option 'illegal_fishing' for field 'threat'",
+    "message": "Illegal Fishing"
+  },
+  "fields.threat.options.logging": {
+    "description": "Label for option 'logging' for field 'threat'",
+    "message": "Logging"
+  },
+  "fields.threat.options.mining": {
+    "description": "Label for option 'mining' for field 'threat'",
+    "message": "Mining"
+  },
+  "fields.threat.options.oil_installation": {
+    "description": "Label for option 'oil_installation' for field 'threat'",
+    "message": "Oil installation"
+  },
+  "fields.threat.options.oil_spill": {
+    "description": "Label for option 'oil_spill' for field 'threat'",
+    "message": "Oil spill"
+  },
+  "fields.threat.options.other": {
+    "description": "Label for option 'other' for field 'threat'",
+    "message": "Other"
+  },
+  "fields.threat.options.poaching": {
+    "description": "Label for option 'poaching' for field 'threat'",
+    "message": "Poaching"
   },
   "fields.threat.placeholder": {
     "description": "An example to guide the user for field 'threat'",

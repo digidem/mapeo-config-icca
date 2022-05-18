@@ -2,11 +2,9 @@
   "name": "mapeo-config-icca",
   "version": "1.6.1",
   "description": "Mapeo config for ICCA mapping, with WCMC",
-  "dependencies": {
-    "id-presets-builder": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "mapeo-settings-builder": "^3.4.0",
+    "mapeo-settings-builder": "^3.4.1",
     "mkdirp": "^1.0.4",
     "rimraf": "^3.0.2"
   },
