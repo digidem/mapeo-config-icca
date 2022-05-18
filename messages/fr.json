@@ -1,4 +1,36 @@
 {
+  "fields.1-name.label": {
+    "description": "Label for field '1-name'",
+    "message": "1. Nom de l’APAC"
+  },
+  "fields.1-name.placeholder": {
+    "description": "An example to guide the user for field '1-name'",
+    "message": "Anglais ou langue originale"
+  },
+  "fields.10-icca-legal.label": {
+    "description": "Label for field '10-icca-legal'",
+    "message": "10. Qui est légalement (conformément à la loi de l'État) propriétaire de la terre/mer sur laquelle l'APAC est située? "
+  },
+  "fields.11-icca-legal-rights.label": {
+    "description": "Label for field '11-icca-legal-rights'",
+    "message": "11. Quels sont les droits légaux (dans le système juridique de l’État) de la communauté d’utiliser les ressources au sein de l’APAC, à l’exclusion des ressources souterraines?"
+  },
+  "fields.12-icca-threats.helperText": {
+    "description": "Descriptive text for field '12-icca-threats'",
+    "message": "Par exemple, des menaces à la pérennité de l'APAC ou à sa biodiversité."
+  },
+  "fields.12-icca-threats.label": {
+    "description": "Label for field '12-icca-threats'",
+    "message": "12. Quels sont les menaces et les défis majeurs pour l'APAC, le cas échéant ?"
+  },
+  "fields.13-icca-support.label": {
+    "description": "Label for field '13-icca-support'",
+    "message": "13. Quelles formes de soutien la communauté a-t-elle identifiées comme étant les plus nécessaires pour l'APAC ? "
+  },
+  "fields.14-icca-other.helperText": {
+    "description": "Descriptive text for field '14-icca-other'",
+    "message": "Texte libre, jusqu'à 1000 mots"
+  },
   "fields.14-icca-other.label": {
     "description": "Label for field '14-icca-other'",
     "message": "Autre chose à ajouter ?"
@@ -19,6 +51,10 @@
     "description": "Descriptive text for field '3-icca-area'",
     "message": "Sélectionnez la forme de l'APAC et appuyez sur Ctrl-i pour obtenir les statistiques de la zone."
   },
+  "fields.3-icca-area.label": {
+    "description": "Label for field '3-icca-area'",
+    "message": "3. Superficie de l'APAC (km2) "
+  },
   "fields.3-icca-area.placeholder": {
     "description": "An example to guide the user for field '3-icca-area'",
     "message": "Superficie en kilomètres carrés"
@@ -34,6 +70,10 @@
   "fields.4a-icca-sea-area.label": {
     "description": "Label for field '4a-icca-sea-area'",
     "message": "4a. Superficie de l'APAC dans la mer (km2)"
+  },
+  "fields.5-icca-decision-maker.label": {
+    "description": "Label for field '5-icca-decision-maker'",
+    "message": "5. Qui est responsable de la prise de décision et des règles de l’APAC?"
   },
   "fields.5a-icca-no-take-area.helperText": {
     "description": "Descriptive text for field '5a-icca-no-take-area'",
