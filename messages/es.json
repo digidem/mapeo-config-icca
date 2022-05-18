@@ -33,7 +33,7 @@
   },
   "fields.14-icca-other.placeholder": {
     "description": "An example to guide the user for field '14-icca-other'",
-    "message": "Cualquier otra información importante que te gustaría compartir"
+    "message": "Cualquier otra información importante"
   },
   "fields.2-icca-country.helperText": {
     "description": "Descriptive text for field '2-icca-country'",
@@ -41,7 +41,7 @@
   },
   "fields.2-icca-country.label": {
     "description": "Label for field '2-icca-country'",
-    "message": "País"
+    "message": "2. País"
   },
   "fields.3-icca-area.helperText": {
     "description": "Descriptive text for field '3-icca-area'",
@@ -57,7 +57,7 @@
   },
   "fields.4-icca-land-sea.label": {
     "description": "Label for field '4-icca-land-sea'",
-    "message": "4. ¿El TICCA se sitúa en tierra, en el mar, o en ambos?"
+    "message": "4. ¿El TICCA está en territorio terrestre, marino, o ambos? "
   },
   "fields.4a-icca-sea-area.helperText": {
     "description": "Descriptive text for field '4a-icca-sea-area'",
@@ -93,7 +93,7 @@
   },
   "fields.7-icca-year.label": {
     "description": "Label for field '7-icca-year'",
-    "message": "¿En qué año entró en vigor este estatus? Si se establece el estado, este es el año en que el TICCA entró en vigor por primera vez"
+    "message": "7. ¿En qué año entró en vigor este estatus? Si se establece el estado, este es el año en que el TICCA entró en vigor por primera vez"
   },
   "fields.7-icca-year.placeholder": {
     "description": "An example to guide the user for field '7-icca-year'",
