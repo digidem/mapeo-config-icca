@@ -87,6 +87,46 @@
     "description": "An example to guide the user for field '5a-icca-no-take-area'",
     "message": "Superficie en kilomètres carrés"
   },
+  "fields.6-icca-status.helperText": {
+    "description": "Descriptive text for field '6-icca-status'",
+    "message": "(par exemple, en tant qu'aire protégée)"
+  },
+  "fields.6-icca-status.label": {
+    "description": "Label for field '6-icca-status'",
+    "message": "6. Statut: l'APAC est-elle reconnue par le gouvernement national pour son rôle dans la conservation?"
+  },
+  "fields.7-icca-year.helperText": {
+    "description": "Descriptive text for field '7-icca-year'",
+    "message": "Vous pouvez également répondre à \"Inconnu\" ou \"Temps immémoriaux\""
+  },
+  "fields.7-icca-year.label": {
+    "description": "Label for field '7-icca-year'",
+    "message": "7. En quelle année ce statut est-il entré en vigueur ? Si le statut est établi, il s'agit de l'année au cours de laquelle l’APAC a vu le jour. "
+  },
+  "fields.7-icca-year.placeholder": {
+    "description": "An example to guide the user for field '7-icca-year'",
+    "message": "année à quatre chiffres"
+  },
+  "fields.8-icca-type.helperText": {
+    "description": "Descriptive text for field '8-icca-type'",
+    "message": "(il peut s'agir de la désignation légale de l'APAC, par exemple une réserve indigène, ou du type d'APAC tel que défini par le peuple ou la communauté indigène, par exemple un site sacré)."
+  },
+  "fields.8-icca-type.label": {
+    "description": "Label for field '8-icca-type'",
+    "message": "8. Type d'APAC"
+  },
+  "fields.8-icca-type.placeholder": {
+    "description": "An example to guide the user for field '8-icca-type'",
+    "message": "Anglais ou langue originale"
+  },
+  "fields.9-icca-objectives.helperText": {
+    "description": "Descriptive text for field '9-icca-objectives'",
+    "message": "Veuillez sélectionner jusqu'à 3."
+  },
+  "fields.9-icca-objectives.label": {
+    "description": "Label for field '9-icca-objectives'",
+    "message": "9. Objectifs : quels sont les principaux objectifs de la gestion de l'APAC?"
+  },
   "fields.culture.label": {
     "description": "Label for field 'culture'",
     "message": "Pourquoi cet endroit est-il important ?"
