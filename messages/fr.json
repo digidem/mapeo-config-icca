@@ -11,9 +11,77 @@
     "description": "Label for field '10-icca-legal'",
     "message": "10. Qui est légalement (conformément à la loi de l'État) propriétaire de la terre/mer sur laquelle l'APAC est située? "
   },
+  "fields.10-icca-legal.options.communal": {
+    "description": "Label for option 'communal' for field '10-icca-legal'",
+    "message": "Communautaire: appartenant à une ou plusieurs communautés/peuples autochtones "
+  },
+  "fields.10-icca-legal.options.contested": {
+    "description": "Label for option 'contested' for field '10-icca-legal'",
+    "message": "Contesté: plus d'une entité revendique la propriété de l’APAC"
+  },
+  "fields.10-icca-legal.options.for_profit": {
+    "description": "Label for option 'for_profit' for field '10-icca-legal'",
+    "message": "Organisation(s) à but lucratif: appartenant à des organisations à but lucratif"
+  },
+  "fields.10-icca-legal.options.joint_ownership": {
+    "description": "Label for option 'joint_ownership' for field '10-icca-legal'",
+    "message": "Copropriété: détenue collectivement par deux ou plusieurs des entités ci-dessus"
+  },
+  "fields.10-icca-legal.options.landowners": {
+    "description": "Label for option 'landowners' for field '10-icca-legal'",
+    "message": "Individus : appartenant à des propriétaires individuels"
+  },
+  "fields.10-icca-legal.options.multiple_ownerships": {
+    "description": "Label for option 'multiple_ownerships' for field '10-icca-legal'",
+    "message": "Propriété multiple: différentes parties de la terre/de la mer appartiennent à différentes entités"
+  },
+  "fields.10-icca-legal.options.none_profit": {
+    "description": "Label for option 'none_profit' for field '10-icca-legal'",
+    "message": "Organisation(s) à but non lucratif: appartenant à des organisations à but non lucratif"
+  },
+  "fields.10-icca-legal.options.not_reported": {
+    "description": "Label for option 'not_reported' for field '10-icca-legal'",
+    "message": "Non signalé: le type de propriété n'est pas connu"
+  },
+  "fields.10-icca-legal.options.state": {
+    "description": "Label for option 'state' for field '10-icca-legal'",
+    "message": "État: propriété de l'État/du gouvernement"
+  },
   "fields.11-icca-legal-rights.label": {
     "description": "Label for field '11-icca-legal-rights'",
     "message": "11. Quels sont les droits légaux (dans le système juridique de l’État) de la communauté d’utiliser les ressources au sein de l’APAC, à l’exclusion des ressources souterraines?"
+  },
+  "fields.11-icca-legal-rights.options.de_facto": {
+    "description": "Label for option 'de_facto' for field '11-icca-legal-rights'",
+    "message": "Droits de facto sur toutes les ressources (contrôle total des ressources, mais pas en droit) "
+  },
+  "fields.11-icca-legal-rights.options.full": {
+    "description": "Label for option 'full' for field '11-icca-legal-rights'",
+    "message": "Pleins droits légaux sur toutes les ressources "
+  },
+  "fields.11-icca-legal-rights.options.only_certain": {
+    "description": "Label for option 'only_certain' for field '11-icca-legal-rights'",
+    "message": "Droits sur seulement certaines ressources/une quantité fixe "
+  },
+  "fields.11-icca-legal-rights.options.only_coomercial": {
+    "description": "Label for option 'only_coomercial' for field '11-icca-legal-rights'",
+    "message": "Droits à l’utilisation commerciale des ressources "
+  },
+  "fields.11-icca-legal-rights.options.other": {
+    "description": "Label for option 'other' for field '11-icca-legal-rights'",
+    "message": "Autre (veuillez décrire sous la dernière question)"
+  },
+  "fields.11-icca-legal-rights.options.protection_only": {
+    "description": "Label for option 'protection_only' for field '11-icca-legal-rights'",
+    "message": "Protection des ressources seulement : aucune utilisation autorisée "
+  },
+  "fields.11-icca-legal-rights.options.temporal": {
+    "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
+    "message": "Droits temporels/saisonniers aux ressources "
+  },
+  "fields.11-icca-legal-rights.options.with_limitations": {
+    "description": "Label for option 'with_limitations' for field '11-icca-legal-rights'",
+    "message": "Droits légaux sur toutes les ressources, sous certaines contraintes (par exemple, règlements/limitations juridiques) "
   },
   "fields.12-icca-threats.helperText": {
     "description": "Descriptive text for field '12-icca-threats'",
@@ -23,9 +91,73 @@
     "description": "Label for field '12-icca-threats'",
     "message": "12. Quels sont les menaces et les défis majeurs pour l'APAC, le cas échéant ?"
   },
+  "fields.12-icca-threats.options.areas_overlapping": {
+    "description": "Label for option 'areas_overlapping' for field '12-icca-threats'",
+    "message": "Autres aires protégées qui se chevauchent"
+  },
+  "fields.12-icca-threats.options.bad_management": {
+    "description": "Label for option 'bad_management' for field '12-icca-threats'",
+    "message": "Gestion inappropriée (par exemple, approches ou pratiques de gestion préjudiciables à la biodiversité de l'APAC ou à d'autres valeurs)"
+  },
+  "fields.12-icca-threats.options.biodiversity_decline": {
+    "description": "Label for option 'biodiversity_decline' for field '12-icca-threats'",
+    "message": "Déclin de la qualité ou de la quantité de la biodiversité ou de la nature (par exemple, eau et air propres, sol sain)"
+  },
+  "fields.12-icca-threats.options.climate_change": {
+    "description": "Label for option 'climate_change' for field '12-icca-threats'",
+    "message": "Changement climatique (par exemple, évolution rapide des régimes de température et de précipitations, élévation du niveau de la mer, phénomènes météorologiques extrêmes)"
+  },
+  "fields.12-icca-threats.options.delegitimisation_of_rights": {
+    "description": "Label for option 'delegitimisation_of_rights' for field '12-icca-threats'",
+    "message": "Délégitimation des droits coutumiers"
+  },
+  "fields.12-icca-threats.options.development_pressures": {
+    "description": "Label for option 'development_pressures' for field '12-icca-threats'",
+    "message": "Pressions de développement indésirable"
+  },
+  "fields.12-icca-threats.options.extraction": {
+    "description": "Label for option 'extraction' for field '12-icca-threats'",
+    "message": "Extraction (par exemple, chasse, exploitation minière, exploitation forestière ou pêche)"
+  },
+  "fields.12-icca-threats.options.invasive_species": {
+    "description": "Label for option 'invasive_species' for field '12-icca-threats'",
+    "message": "Espèces envahissantes ou non indigènes"
+  },
+  "fields.12-icca-threats.options.national_laws": {
+    "description": "Label for option 'national_laws' for field '12-icca-threats'",
+    "message": "Lois, politiques ou pratiques nationales"
+  },
+  "fields.12-icca-threats.options.none": {
+    "description": "Label for option 'none' for field '12-icca-threats'",
+    "message": "Il n'y a pas de menaces actuelles"
+  },
+  "fields.12-icca-threats.options.other": {
+    "description": "Label for option 'other' for field '12-icca-threats'",
+    "message": "Autre (veuillez décrire sous la dernière question)"
+  },
+  "fields.12-icca-threats.options.overharvesting": {
+    "description": "Label for option 'overharvesting' for field '12-icca-threats'",
+    "message": "Surexploitation (précisez si elle provient de l'intérieur ou de l'extérieur de la communauté) "
+  },
+  "fields.12-icca-threats.options.tourism": {
+    "description": "Label for option 'tourism' for field '12-icca-threats'",
+    "message": "Impacts négatifs du tourisme"
+  },
   "fields.13-icca-support.label": {
     "description": "Label for field '13-icca-support'",
     "message": "13. Quelles formes de soutien la communauté a-t-elle identifiées comme étant les plus nécessaires pour l'APAC ? "
+  },
+  "fields.13-icca-support.options.collaboration_with_other_icca": {
+    "description": "Label for option 'collaboration_with_other_icca' for field '13-icca-support'",
+    "message": "Collaboration ou communication avec d'autres APAC "
+  },
+  "fields.13-icca-support.options.cultural_empowerment": {
+    "description": "Label for option 'cultural_empowerment' for field '13-icca-support'",
+    "message": "Autonomisation culturelle ou sociale"
+  },
+  "fields.13-icca-support.options.development_initiatives": {
+    "description": "Label for option 'development_initiatives' for field '13-icca-support'",
+    "message": "Partenariats pour des initiatives de développement autodéterminées et des moyens de subsistance durables"
   },
   "fields.14-icca-other.helperText": {
     "description": "Descriptive text for field '14-icca-other'",
