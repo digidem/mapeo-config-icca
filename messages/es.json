@@ -11,6 +11,42 @@
     "description": "Label for field '10-icca-legal'",
     "message": "10. ¿Quién posee legalmente (de acuerdo con la ley estatal) el territorio/mar en el que se encuentra el TICCA? "
   },
+  "fields.10-icca-legal.options.communal": {
+    "description": "Label for option 'communal' for field '10-icca-legal'",
+    "message": "Comunal: propiedad de una o más comunidades o pueblos indígenas "
+  },
+  "fields.10-icca-legal.options.contested": {
+    "description": "Label for option 'contested' for field '10-icca-legal'",
+    "message": "En disputa: más de una entidad reclama la propiedad del TICCA"
+  },
+  "fields.10-icca-legal.options.for_profit": {
+    "description": "Label for option 'for_profit' for field '10-icca-legal'",
+    "message": "Organizaciones con fines de lucro: propiedad de organizaciones con fines de lucro"
+  },
+  "fields.10-icca-legal.options.joint_ownership": {
+    "description": "Label for option 'joint_ownership' for field '10-icca-legal'",
+    "message": "Propiedad conjunta: propiedad colectiva de dos o más de las entidades anteriores"
+  },
+  "fields.10-icca-legal.options.landowners": {
+    "description": "Label for option 'landowners' for field '10-icca-legal'",
+    "message": "Propietarios individuales: propiedad de propietarios individuales"
+  },
+  "fields.10-icca-legal.options.multiple_ownerships": {
+    "description": "Label for option 'multiple_ownerships' for field '10-icca-legal'",
+    "message": "Propiedad múltiple: diferentes partes del territorio terrestre/marino son propiedad de diferentes entidades"
+  },
+  "fields.10-icca-legal.options.none_profit": {
+    "description": "Label for option 'none_profit' for field '10-icca-legal'",
+    "message": "Organización(es) sin fines de lucro: propiedad de organizaciones sin fines de lucro"
+  },
+  "fields.10-icca-legal.options.not_reported": {
+    "description": "Label for option 'not_reported' for field '10-icca-legal'",
+    "message": "No informado: se desconoce el tipo de propiedad"
+  },
+  "fields.10-icca-legal.options.state": {
+    "description": "Label for option 'state' for field '10-icca-legal'",
+    "message": "Estado: propiedad del estado/gobierno"
+  },
   "fields.11-icca-legal-rights.label": {
     "description": "Label for field '11-icca-legal-rights'",
     "message": "11. ¿Cuáles son los derechos legales (según el Sistema jurídico establecido) de la comunidad para hacer uso de los recursos del TICCA, excluyendo los recursos del subsuelo?"
@@ -34,6 +70,10 @@
   "fields.11-icca-legal-rights.options.other": {
     "description": "Label for option 'other' for field '11-icca-legal-rights'",
     "message": "Otro (por favor descríbalo en la pregunta final)"
+  },
+  "fields.11-icca-legal-rights.options.protection_only": {
+    "description": "Label for option 'protection_only' for field '11-icca-legal-rights'",
+    "message": "Protección de los recursos solamente: el uso no está permitido "
   },
   "fields.11-icca-legal-rights.options.temporal": {
     "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
