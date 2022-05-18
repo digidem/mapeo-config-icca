@@ -15,6 +15,30 @@
     "description": "Label for field '11-icca-legal-rights'",
     "message": "11. ¿Cuáles son los derechos legales (según el Sistema jurídico establecido) de la comunidad para hacer uso de los recursos del TICCA, excluyendo los recursos del subsuelo?"
   },
+  "fields.11-icca-legal-rights.options.de_facto": {
+    "description": "Label for option 'de_facto' for field '11-icca-legal-rights'",
+    "message": "Derechos de facto sobre todos los recursos (control total sin una ley que lo especifique) "
+  },
+  "fields.11-icca-legal-rights.options.full": {
+    "description": "Label for option 'full' for field '11-icca-legal-rights'",
+    "message": "Derechos legales de todos los recursos "
+  },
+  "fields.11-icca-legal-rights.options.only_certain": {
+    "description": "Label for option 'only_certain' for field '11-icca-legal-rights'",
+    "message": "Derechos solo sobre algunos recursos / una cantidad determinada "
+  },
+  "fields.11-icca-legal-rights.options.only_coomercial": {
+    "description": "Label for option 'only_coomercial' for field '11-icca-legal-rights'",
+    "message": "Derechos para el uso comercial de los recursos "
+  },
+  "fields.11-icca-legal-rights.options.other": {
+    "description": "Label for option 'other' for field '11-icca-legal-rights'",
+    "message": "Otro (por favor descríbalo en la pregunta final)"
+  },
+  "fields.11-icca-legal-rights.options.temporal": {
+    "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
+    "message": "Derechos temporales o estacionales "
+  },
   "fields.12-icca-threats.helperText": {
     "description": "Descriptive text for field '12-icca-threats'",
     "message": "Por ejemplo, amenazas a la existencia del TICCA o a su biodiversidad."
@@ -23,9 +47,117 @@
     "description": "Label for field '12-icca-threats'",
     "message": "12. ¿Cuáles son las principales amenazas y desafíos para la TICCA, si los hay? (Por favor, seleccione sólo hasta tres)"
   },
+  "fields.12-icca-threats.options.areas_overlapping": {
+    "description": "Label for option 'areas_overlapping' for field '12-icca-threats'",
+    "message": "Otras áreas protegidas superpuestas"
+  },
+  "fields.12-icca-threats.options.bad_management": {
+    "description": "Label for option 'bad_management' for field '12-icca-threats'",
+    "message": "Gestión inapropiada (p. ej., enfoques o prácticas de gestión que son perjudiciales para la biodiversidad u otros valores del TICCA)"
+  },
+  "fields.12-icca-threats.options.biodiversity_decline": {
+    "description": "Label for option 'biodiversity_decline' for field '12-icca-threats'",
+    "message": "Disminución en la calidad o cantidad de la biodiversidad o la naturaleza (p. ej., agua y aire limpios, estado del suelo)"
+  },
+  "fields.12-icca-threats.options.climate_change": {
+    "description": "Label for option 'climate_change' for field '12-icca-threats'",
+    "message": "Cambio climático (p. ej., patrones de precipitación y temperatura que cambian rápidamente, aumento del nivel del mar, fenómenos meteorológicos extremos)"
+  },
+  "fields.12-icca-threats.options.delegitimisation_of_rights": {
+    "description": "Label for option 'delegitimisation_of_rights' for field '12-icca-threats'",
+    "message": "Deslegitimación de los derechos consuetudinarios"
+  },
+  "fields.12-icca-threats.options.development_pressures": {
+    "description": "Label for option 'development_pressures' for field '12-icca-threats'",
+    "message": "Presiones por desarrollo no deseado"
+  },
+  "fields.12-icca-threats.options.extraction": {
+    "description": "Label for option 'extraction' for field '12-icca-threats'",
+    "message": "Extracción (p. ej., caza, minería, tala o pesca)"
+  },
+  "fields.12-icca-threats.options.invasive_species": {
+    "description": "Label for option 'invasive_species' for field '12-icca-threats'",
+    "message": "Especies invasoras o no nativas"
+  },
+  "fields.12-icca-threats.options.national_laws": {
+    "description": "Label for option 'national_laws' for field '12-icca-threats'",
+    "message": "Leyes, políticas o prácticas nacionales"
+  },
+  "fields.12-icca-threats.options.none": {
+    "description": "Label for option 'none' for field '12-icca-threats'",
+    "message": "No hay amenazas actuales"
+  },
+  "fields.12-icca-threats.options.other": {
+    "description": "Label for option 'other' for field '12-icca-threats'",
+    "message": "Otro (por favor descríbalo en la pregunta final)"
+  },
+  "fields.12-icca-threats.options.overharvesting": {
+    "description": "Label for option 'overharvesting' for field '12-icca-threats'",
+    "message": "Sobreexplotación (especifique si es dentro o fuera de la comunidad) "
+  },
+  "fields.12-icca-threats.options.tourism": {
+    "description": "Label for option 'tourism' for field '12-icca-threats'",
+    "message": "Impactos negativos del turismo"
+  },
   "fields.13-icca-support.label": {
     "description": "Label for field '13-icca-support'",
     "message": "13. ¿Qué formas de apoyo ha identificado la comunidad como las más necesarias para el TICCA?"
+  },
+  "fields.13-icca-support.options.collaboration_with_other_icca": {
+    "description": "Label for option 'collaboration_with_other_icca' for field '13-icca-support'",
+    "message": "Colaboración o comunicación con otros TICCA "
+  },
+  "fields.13-icca-support.options.cultural_empowerment": {
+    "description": "Label for option 'cultural_empowerment' for field '13-icca-support'",
+    "message": "Empoderamiento cultural o social"
+  },
+  "fields.13-icca-support.options.development_initiatives": {
+    "description": "Label for option 'development_initiatives' for field '13-icca-support'",
+    "message": "Asociaciones para iniciativas de autodesarrollo y medios de vida sostenibles"
+  },
+  "fields.13-icca-support.options.education_services": {
+    "description": "Label for option 'education_services' for field '13-icca-support'",
+    "message": "Servicios educativos"
+  },
+  "fields.13-icca-support.options.equipment": {
+    "description": "Label for option 'equipment' for field '13-icca-support'",
+    "message": "Equipos, por ejemplo, software GIS, cámaras, grabadoras de video, computadoras "
+  },
+  "fields.13-icca-support.options.financial": {
+    "description": "Label for option 'financial' for field '13-icca-support'",
+    "message": "Asistencia financiera"
+  },
+  "fields.13-icca-support.options.health_services": {
+    "description": "Label for option 'health_services' for field '13-icca-support'",
+    "message": "Servicios de salud"
+  },
+  "fields.13-icca-support.options.legal": {
+    "description": "Label for option 'legal' for field '13-icca-support'",
+    "message": "Apoyo legal (por ejemplo, para presentar reclamos o resistir proyectos externos a través de litigios)"
+  },
+  "fields.13-icca-support.options.none": {
+    "description": "Label for option 'none' for field '13-icca-support'",
+    "message": "No se necesita apoyo"
+  },
+  "fields.13-icca-support.options.organisational": {
+    "description": "Label for option 'organisational' for field '13-icca-support'",
+    "message": "Mejora de la capacidad organizacional/interna "
+  },
+  "fields.13-icca-support.options.other": {
+    "description": "Label for option 'other' for field '13-icca-support'",
+    "message": "Otro (por favor descríbalo en la pregunta final)"
+  },
+  "fields.13-icca-support.options.political_empowerment": {
+    "description": "Label for option 'political_empowerment' for field '13-icca-support'",
+    "message": "Empoderamiento político"
+  },
+  "fields.13-icca-support.options.recognition": {
+    "description": "Label for option 'recognition' for field '13-icca-support'",
+    "message": "Reconocimiento apropiado (legal o de otro tipo) por parte de las autoridades estatales y/u otras organizaciones"
+  },
+  "fields.13-icca-support.options.technical": {
+    "description": "Label for option 'technical' for field '13-icca-support'",
+    "message": "Capacidad técnica: nuevas tecnologías, habilidades analíticas o de resolución de problemas, planes de gestión"
   },
   "fields.14-icca-other.helperText": {
     "description": "Descriptive text for field '14-icca-other'",
@@ -127,6 +259,10 @@
     "description": "Label for field '9-icca-objectives'",
     "message": "9. Objetivos: ¿Cuáles son los principales objetivos de la gestión del TICCA?"
   },
+  "fields.9-icca-objectives.options.other": {
+    "description": "Label for option 'other' for field '9-icca-objectives'",
+    "message": "Otro (por favor descríbalo en la pregunta final)"
+  },
   "fields.culture.label": {
     "description": "Label for field 'culture'",
     "message": "¿Por qué este lugar es importante?"
@@ -151,9 +287,17 @@
     "description": "Label for field 'resource'",
     "message": "¿Qué se encuentra aquí?"
   },
+  "fields.resource.options.other": {
+    "description": "Label for option 'other' for field 'resource'",
+    "message": "Otro"
+  },
   "fields.threat.label": {
     "description": "Label for field 'threat'",
     "message": "¿Qué está pasando aquí?"
+  },
+  "fields.threat.options.other": {
+    "description": "Label for option 'other' for field 'threat'",
+    "message": "Otro"
   },
   "presets.area.name": {
     "description": "The name of preset 'area'",
