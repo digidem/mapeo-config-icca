@@ -3,6 +3,10 @@
     "description": "Label for field '1-name'",
     "message": "1. Nombre del TICCA"
   },
+  "fields.1-name.placeholder": {
+    "description": "An example to guide the user for field '1-name'",
+    "message": "Inglés o idioma original"
+  },
   "fields.10-icca-legal.label": {
     "description": "Label for field '10-icca-legal'",
     "message": "10. ¿Quién posee legalmente (de acuerdo con la ley estatal) el territorio/mar en el que se encuentra el TICCA? "
@@ -91,6 +95,10 @@
     "description": "Label for field '6-icca-status'",
     "message": "6. Estado: ¿El TICCA está reconocido por el gobierno nacional por su papel en la conservación?"
   },
+  "fields.7-icca-year.helperText": {
+    "description": "Descriptive text for field '7-icca-year'",
+    "message": "También puedes responder \"Desconocido \" o \"Tiempos inmemoriales\""
+  },
   "fields.7-icca-year.label": {
     "description": "Label for field '7-icca-year'",
     "message": "7. ¿En qué año entró en vigor este estatus? Si se establece el estado, este es el año en que el TICCA entró en vigor por primera vez"
@@ -106,6 +114,18 @@
   "fields.8-icca-type.label": {
     "description": "Label for field '8-icca-type'",
     "message": "8. Tipo de TICCA"
+  },
+  "fields.8-icca-type.placeholder": {
+    "description": "An example to guide the user for field '8-icca-type'",
+    "message": "Inglés o idioma original"
+  },
+  "fields.9-icca-objectives.helperText": {
+    "description": "Descriptive text for field '9-icca-objectives'",
+    "message": "Por favor, seleccione hasta 3."
+  },
+  "fields.9-icca-objectives.label": {
+    "description": "Label for field '9-icca-objectives'",
+    "message": "9. Objetivos: ¿Cuáles son los principales objetivos de la gestión del TICCA?"
   },
   "fields.culture.label": {
     "description": "Label for field 'culture'",
