@@ -351,6 +351,42 @@
     "description": "Label for option 'cultural_preservation' for field '9-icca-objectives'",
     "message": "Préservation culturelle/traditionnelle"
   },
+  "fields.9-icca-objectives.options.land_ownership": {
+    "description": "Label for option 'land_ownership' for field '9-icca-objectives'",
+    "message": "Sécurité foncière"
+  },
+  "fields.9-icca-objectives.options.natural_resources": {
+    "description": "Label for option 'natural_resources' for field '9-icca-objectives'",
+    "message": "Entretenir et valoriser les ressources naturelles"
+  },
+  "fields.9-icca-objectives.options.other": {
+    "description": "Label for option 'other' for field '9-icca-objectives'",
+    "message": "Autre (veuillez décrire sous la dernière question)"
+  },
+  "fields.9-icca-objectives.options.self_determination": {
+    "description": "Label for option 'self_determination' for field '9-icca-objectives'",
+    "message": "Accroître les droits à l'autodétermination et à l'autonomisation"
+  },
+  "fields.9-icca-objectives.options.spiritual_preservation": {
+    "description": "Label for option 'spiritual_preservation' for field '9-icca-objectives'",
+    "message": "Protection des sites spirituels/sacrés"
+  },
+  "fields.9-icca-objectives.options.sustainable_livelihoods": {
+    "description": "Label for option 'sustainable_livelihoods' for field '9-icca-objectives'",
+    "message": "Soutenir des moyens de subsistance durables"
+  },
+  "fields.9-icca-objectives.options.territorial_security": {
+    "description": "Label for option 'territorial_security' for field '9-icca-objectives'",
+    "message": "Sécurité territoriale (contrôle de l'accès à la terre et aux ressources)"
+  },
+  "fields.9-icca-objectives.options.tourism": {
+    "description": "Label for option 'tourism' for field '9-icca-objectives'",
+    "message": "Développer les opportunités touristiques"
+  },
+  "fields.9-icca-objectives.options.traditional_livelihoods": {
+    "description": "Label for option 'traditional_livelihoods' for field '9-icca-objectives'",
+    "message": "Soutenir les moyens de subsistance traditionnels"
+  },
   "fields.culture.label": {
     "description": "Label for field 'culture'",
     "message": "Pourquoi cet endroit est-il important ?"
