@@ -145,7 +145,7 @@
   },
   "fields.13-icca-support.label": {
     "description": "Label for field '13-icca-support'",
-    "message": "13. ¿Qué formas de apoyo ha identificado la comunidad como las más necesarias para el TICCA?"
+    "message": "13. ¿Qué formas de apoyo ha identificado la comunidad como las más necesarias para el TICCA? (Por favor, seleccione sólo hasta tres)"
   },
   "fields.13-icca-support.options.collaboration_with_other_icca": {
     "description": "Label for option 'collaboration_with_other_icca' for field '13-icca-support'",
@@ -341,7 +341,7 @@
   },
   "fields.9-icca-objectives.label": {
     "description": "Label for field '9-icca-objectives'",
-    "message": "9. Objetivos: ¿Cuáles son los principales objetivos de la gestión del TICCA?"
+    "message": "9. Objetivos: ¿Cuáles son los principales objetivos de la gestión del TICCA? (Por favor, seleccione sólo hasta tres)"
   },
   "fields.9-icca-objectives.options.conservation": {
     "description": "Label for option 'conservation' for field '9-icca-objectives'",
