@@ -89,7 +89,7 @@
   },
   "fields.12-icca-threats.label": {
     "description": "Label for field '12-icca-threats'",
-    "message": "12. Quels sont les menaces et les défis majeurs pour l'APAC, le cas échéant ?"
+    "message": "Quels sont les menaces et les défis majeurs pour l'APAC, le cas échéant? (Veuillez sélectionner au maximum trois)"
   },
   "fields.12-icca-threats.options.areas_overlapping": {
     "description": "Label for option 'areas_overlapping' for field '12-icca-threats'",
@@ -145,7 +145,7 @@
   },
   "fields.13-icca-support.label": {
     "description": "Label for field '13-icca-support'",
-    "message": "13. Quelles formes de soutien la communauté a-t-elle identifiées comme étant les plus nécessaires pour l'APAC ? "
+    "message": "13. Quelles formes de soutien la communauté a-t-elle identifiées comme étant les plus nécessaires pour l'APAC ? (Veuillez sélectionner au maximum trois)"
   },
   "fields.13-icca-support.options.collaboration_with_other_icca": {
     "description": "Label for option 'collaboration_with_other_icca' for field '13-icca-support'",
@@ -341,7 +341,7 @@
   },
   "fields.9-icca-objectives.label": {
     "description": "Label for field '9-icca-objectives'",
-    "message": "9. Objectifs : quels sont les principaux objectifs de la gestion de l'APAC?"
+    "message": "9. Objectifs : quels sont les principaux objectifs de la gestion de l'APAC? (Veuillez sélectionner au maximum trois)"
   },
   "fields.9-icca-objectives.options.conservation": {
     "description": "Label for option 'conservation' for field '9-icca-objectives'",
