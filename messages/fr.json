@@ -403,6 +403,18 @@
     "description": "Label for field 'icca-legal-recognition'",
     "message": "Droits fonciers de l'APAC"
   },
+  "fields.icca-legal-recognition.options.full": {
+    "description": "Label for option 'full' for field 'icca-legal-recognition'",
+    "message": "Pleine reconnaissance"
+  },
+  "fields.icca-legal-recognition.options.none": {
+    "description": "Label for option 'none' for field 'icca-legal-recognition'",
+    "message": "Pas de reconnaissance"
+  },
+  "fields.icca-legal-recognition.options.partial": {
+    "description": "Label for option 'partial' for field 'icca-legal-recognition'",
+    "message": "Reconnaissance partielle"
+  },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "Nom"
@@ -410,6 +422,22 @@
   "fields.resource.label": {
     "description": "Label for field 'resource'",
     "message": "Qu'est-ce qui se trouve ici ?"
+  },
+  "fields.resource.options.construction_materials": {
+    "description": "Label for option 'construction_materials' for field 'resource'",
+    "message": "Matériaux de construction"
+  },
+  "fields.resource.options.craft_materials": {
+    "description": "Label for option 'craft_materials' for field 'resource'",
+    "message": "Matériaux pour l'artisanat"
+  },
+  "fields.resource.options.fishing_site": {
+    "description": "Label for option 'fishing_site' for field 'resource'",
+    "message": "Lieu de pêche"
+  },
+  "fields.resource.options.hunting_site": {
+    "description": "Label for option 'hunting_site' for field 'resource'",
+    "message": "Site de chasse"
   },
   "fields.threat.label": {
     "description": "Label for field 'threat'",
