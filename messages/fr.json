@@ -439,9 +439,61 @@
     "description": "Label for option 'hunting_site' for field 'resource'",
     "message": "Site de chasse"
   },
+  "fields.resource.options.medicinal_plant": {
+    "description": "Label for option 'medicinal_plant' for field 'resource'",
+    "message": "Plante médicinale"
+  },
+  "fields.resource.options.other": {
+    "description": "Label for option 'other' for field 'resource'",
+    "message": "Autre"
+  },
+  "fields.resource.options.wild_foods": {
+    "description": "Label for option 'wild_foods' for field 'resource'",
+    "message": "Aliments sauvages"
+  },
   "fields.threat.label": {
     "description": "Label for field 'threat'",
     "message": "Que se passe-t-il ici ?"
+  },
+  "fields.threat.options.agricultural_impact": {
+    "description": "Label for option 'agricultural_impact' for field 'threat'",
+    "message": "Impact agricole"
+  },
+  "fields.threat.options.armed_groups": {
+    "description": "Label for option 'armed_groups' for field 'threat'",
+    "message": "Groupes armés"
+  },
+  "fields.threat.options.illegal_cultivation": {
+    "description": "Label for option 'illegal_cultivation' for field 'threat'",
+    "message": "Culture illégale"
+  },
+  "fields.threat.options.illegal_fishing": {
+    "description": "Label for option 'illegal_fishing' for field 'threat'",
+    "message": "Pêche illégale"
+  },
+  "fields.threat.options.logging": {
+    "description": "Label for option 'logging' for field 'threat'",
+    "message": "Enregistrement"
+  },
+  "fields.threat.options.mining": {
+    "description": "Label for option 'mining' for field 'threat'",
+    "message": "Exploitation minière"
+  },
+  "fields.threat.options.oil_installation": {
+    "description": "Label for option 'oil_installation' for field 'threat'",
+    "message": "Pose d'huile"
+  },
+  "fields.threat.options.oil_spill": {
+    "description": "Label for option 'oil_spill' for field 'threat'",
+    "message": "Marée noire"
+  },
+  "fields.threat.options.other": {
+    "description": "Label for option 'other' for field 'threat'",
+    "message": "Autre"
+  },
+  "fields.threat.options.poaching": {
+    "description": "Label for option 'poaching' for field 'threat'",
+    "message": "Braconnage"
   },
   "presets.area.name": {
     "description": "The name of preset 'area'",
