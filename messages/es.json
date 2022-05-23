@@ -403,6 +403,18 @@
     "description": "Label for field 'icca-legal-recognition'",
     "message": "Derechos de tierras del TICCA"
   },
+  "fields.icca-legal-recognition.options.full": {
+    "description": "Label for option 'full' for field 'icca-legal-recognition'",
+    "message": "Reconocimiento completo"
+  },
+  "fields.icca-legal-recognition.options.none": {
+    "description": "Label for option 'none' for field 'icca-legal-recognition'",
+    "message": "Sin reconocimiento"
+  },
+  "fields.icca-legal-recognition.options.partial": {
+    "description": "Label for option 'partial' for field 'icca-legal-recognition'",
+    "message": "Reconocimiento parcial"
+  },
   "fields.name.label": {
     "description": "Label for field 'name'",
     "message": "Nombre"
@@ -411,17 +423,77 @@
     "description": "Label for field 'resource'",
     "message": "¿Qué se encuentra aquí?"
   },
+  "fields.resource.options.construction_materials": {
+    "description": "Label for option 'construction_materials' for field 'resource'",
+    "message": "Materiales para la construcción"
+  },
+  "fields.resource.options.craft_materials": {
+    "description": "Label for option 'craft_materials' for field 'resource'",
+    "message": "Materiales para manualidades"
+  },
+  "fields.resource.options.fishing_site": {
+    "description": "Label for option 'fishing_site' for field 'resource'",
+    "message": "Sitio de pesca"
+  },
+  "fields.resource.options.hunting_site": {
+    "description": "Label for option 'hunting_site' for field 'resource'",
+    "message": "Sitio de caza"
+  },
+  "fields.resource.options.medicinal_plant": {
+    "description": "Label for option 'medicinal_plant' for field 'resource'",
+    "message": "Planta medicinal"
+  },
   "fields.resource.options.other": {
     "description": "Label for option 'other' for field 'resource'",
     "message": "Otro"
+  },
+  "fields.resource.options.wild_foods": {
+    "description": "Label for option 'wild_foods' for field 'resource'",
+    "message": "Alimentos silvestres"
   },
   "fields.threat.label": {
     "description": "Label for field 'threat'",
     "message": "¿Qué está pasando aquí?"
   },
+  "fields.threat.options.agricultural_impact": {
+    "description": "Label for option 'agricultural_impact' for field 'threat'",
+    "message": "Impacto agrícola"
+  },
+  "fields.threat.options.armed_groups": {
+    "description": "Label for option 'armed_groups' for field 'threat'",
+    "message": "Impacto agrícola"
+  },
+  "fields.threat.options.illegal_cultivation": {
+    "description": "Label for option 'illegal_cultivation' for field 'threat'",
+    "message": "Cultivo ilegal"
+  },
+  "fields.threat.options.illegal_fishing": {
+    "description": "Label for option 'illegal_fishing' for field 'threat'",
+    "message": "Pesca ilegal"
+  },
+  "fields.threat.options.logging": {
+    "description": "Label for option 'logging' for field 'threat'",
+    "message": "Explotación florestal"
+  },
+  "fields.threat.options.mining": {
+    "description": "Label for option 'mining' for field 'threat'",
+    "message": "Minería"
+  },
+  "fields.threat.options.oil_installation": {
+    "description": "Label for option 'oil_installation' for field 'threat'",
+    "message": "Instalación petrolera"
+  },
+  "fields.threat.options.oil_spill": {
+    "description": "Label for option 'oil_spill' for field 'threat'",
+    "message": "Derrame de petrolera"
+  },
   "fields.threat.options.other": {
     "description": "Label for option 'other' for field 'threat'",
     "message": "Otro"
+  },
+  "fields.threat.options.poaching": {
+    "description": "Label for option 'poaching' for field 'threat'",
+    "message": "Caza furtiva"
   },
   "presets.area.name": {
     "description": "The name of preset 'area'",
