@@ -241,7 +241,7 @@
   },
   "fields.4-icca-land-sea.options.land": {
     "description": "Label for option 'land' for field '4-icca-land-sea'",
-    "message": "All on land and/or freshwater"
+    "message": "Todo en tierra y/o agua dulce"
   },
   "fields.4-icca-land-sea.options.land_and_sea": {
     "description": "Label for option 'land_and_sea' for field '4-icca-land-sea'",
