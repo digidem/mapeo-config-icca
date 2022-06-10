@@ -47,17 +47,21 @@
     "description": "Label for option 'state' for field '10-icca-legal'",
     "message": "Estado: propiedad del estado/gobierno"
   },
-  "fields.11-icca-legal-rights.label": {
-    "description": "Label for field '11-icca-legal-rights'",
-    "message": "11. ¿Cuáles son los derechos legales (según el Sistema jurídico establecido) de la comunidad para hacer uso de los recursos del TICCA, excluyendo los recursos del subsuelo?"
+  "fields.11-icca-legal-rights.options.full": {
+    "description": "Label for option 'full' for field '11-icca-legal-rights'",
+    "message": "Derechos legales de todos los recursos "
+  },
+  "fields.11-icca-legal-rights.options.other": {
+    "description": "Label for option 'other' for field '11-icca-legal-rights'",
+    "message": "Otro (por favor descríbalo en la pregunta final)"
+  },
+  "fields.11-icca-legal-rights.options.temporal": {
+    "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
+    "message": "Derechos temporales o estacionales "
   },
   "fields.11-icca-legal-rights.options.de_facto": {
     "description": "Label for option 'de_facto' for field '11-icca-legal-rights'",
     "message": "Derechos de facto sobre todos los recursos (control total sin una ley que lo especifique) "
-  },
-  "fields.11-icca-legal-rights.options.full": {
-    "description": "Label for option 'full' for field '11-icca-legal-rights'",
-    "message": "Derechos legales de todos los recursos "
   },
   "fields.11-icca-legal-rights.options.only_certain": {
     "description": "Label for option 'only_certain' for field '11-icca-legal-rights'",
@@ -67,17 +71,9 @@
     "description": "Label for option 'only_coomercial' for field '11-icca-legal-rights'",
     "message": "Derechos para el uso comercial de los recursos "
   },
-  "fields.11-icca-legal-rights.options.other": {
-    "description": "Label for option 'other' for field '11-icca-legal-rights'",
-    "message": "Otro (por favor descríbalo en la pregunta final)"
-  },
   "fields.11-icca-legal-rights.options.protection_only": {
     "description": "Label for option 'protection_only' for field '11-icca-legal-rights'",
     "message": "Protección de los recursos solamente: el uso no está permitido "
-  },
-  "fields.11-icca-legal-rights.options.temporal": {
-    "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
-    "message": "Derechos temporales o estacionales "
   },
   "fields.11-icca-legal-rights.options.with_limitations": {
     "description": "Label for option 'with_limitations' for field '11-icca-legal-rights'",
@@ -243,10 +239,6 @@
     "description": "Label for option 'land' for field '4-icca-land-sea'",
     "message": "Todo en tierra y/o agua dulce"
   },
-  "fields.4-icca-land-sea.options.land_and_sea": {
-    "description": "Label for option 'land_and_sea' for field '4-icca-land-sea'",
-    "message": "Abarca territorio terrestre (y/o agua dulce) y marino"
-  },
   "fields.4-icca-land-sea.options.sea": {
     "description": "Label for option 'sea' for field '4-icca-land-sea'",
     "message": "Solo en territorio marino"
@@ -334,14 +326,6 @@
   "fields.8-icca-type.placeholder": {
     "description": "An example to guide the user for field '8-icca-type'",
     "message": "Inglés o idioma original"
-  },
-  "fields.9-icca-objectives.helperText": {
-    "description": "Descriptive text for field '9-icca-objectives'",
-    "message": "Por favor, seleccione hasta 3."
-  },
-  "fields.9-icca-objectives.label": {
-    "description": "Label for field '9-icca-objectives'",
-    "message": "9. Objetivos: ¿Cuáles son los principales objetivos de la gestión del TICCA? (Por favor, seleccione sólo hasta tres)"
   },
   "fields.9-icca-objectives.options.conservation": {
     "description": "Label for option 'conservation' for field '9-icca-objectives'",
