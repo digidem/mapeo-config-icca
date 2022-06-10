@@ -47,17 +47,21 @@
     "description": "Label for option 'state' for field '10-icca-legal'",
     "message": "État: propriété de l'État/du gouvernement"
   },
-  "fields.11-icca-legal-rights.label": {
-    "description": "Label for field '11-icca-legal-rights'",
-    "message": "11. Quels sont les droits légaux (dans le système juridique de l’État) de la communauté d’utiliser les ressources au sein de l’APAC, à l’exclusion des ressources souterraines?"
+  "fields.11-icca-legal-rights.options.full": {
+    "description": "Label for option 'full' for field '11-icca-legal-rights'",
+    "message": "Pleins droits légaux sur toutes les ressources "
+  },
+  "fields.11-icca-legal-rights.options.other": {
+    "description": "Label for option 'other' for field '11-icca-legal-rights'",
+    "message": "Autre (veuillez décrire sous la dernière question)"
+  },
+  "fields.11-icca-legal-rights.options.temporal": {
+    "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
+    "message": "Droits temporels/saisonniers aux ressources "
   },
   "fields.11-icca-legal-rights.options.de_facto": {
     "description": "Label for option 'de_facto' for field '11-icca-legal-rights'",
     "message": "Droits de facto sur toutes les ressources (contrôle total des ressources, mais pas en droit) "
-  },
-  "fields.11-icca-legal-rights.options.full": {
-    "description": "Label for option 'full' for field '11-icca-legal-rights'",
-    "message": "Pleins droits légaux sur toutes les ressources "
   },
   "fields.11-icca-legal-rights.options.only_certain": {
     "description": "Label for option 'only_certain' for field '11-icca-legal-rights'",
@@ -67,17 +71,9 @@
     "description": "Label for option 'only_coomercial' for field '11-icca-legal-rights'",
     "message": "Droits à l’utilisation commerciale des ressources "
   },
-  "fields.11-icca-legal-rights.options.other": {
-    "description": "Label for option 'other' for field '11-icca-legal-rights'",
-    "message": "Autre (veuillez décrire sous la dernière question)"
-  },
   "fields.11-icca-legal-rights.options.protection_only": {
     "description": "Label for option 'protection_only' for field '11-icca-legal-rights'",
     "message": "Protection des ressources seulement : aucune utilisation autorisée "
-  },
-  "fields.11-icca-legal-rights.options.temporal": {
-    "description": "Label for option 'temporal' for field '11-icca-legal-rights'",
-    "message": "Droits temporels/saisonniers aux ressources "
   },
   "fields.11-icca-legal-rights.options.with_limitations": {
     "description": "Label for option 'with_limitations' for field '11-icca-legal-rights'",
@@ -243,10 +239,6 @@
     "description": "Label for option 'land' for field '4-icca-land-sea'",
     "message": "Entièrement sur terre et/ou en eau douce"
   },
-  "fields.4-icca-land-sea.options.land_and_sea": {
-    "description": "Label for option 'land_and_sea' for field '4-icca-land-sea'",
-    "message": "Couvre la terre (et/ou l'eau douce) et la mer"
-  },
   "fields.4-icca-land-sea.options.sea": {
     "description": "Label for option 'sea' for field '4-icca-land-sea'",
     "message": "Entièrement en mer"
@@ -334,14 +326,6 @@
   "fields.8-icca-type.placeholder": {
     "description": "An example to guide the user for field '8-icca-type'",
     "message": "Anglais ou langue originale"
-  },
-  "fields.9-icca-objectives.helperText": {
-    "description": "Descriptive text for field '9-icca-objectives'",
-    "message": "Veuillez sélectionner jusqu'à 3."
-  },
-  "fields.9-icca-objectives.label": {
-    "description": "Label for field '9-icca-objectives'",
-    "message": "9. Objectifs : quels sont les principaux objectifs de la gestion de l'APAC? (Veuillez sélectionner au maximum trois)"
   },
   "fields.9-icca-objectives.options.conservation": {
     "description": "Label for option 'conservation' for field '9-icca-objectives'",
