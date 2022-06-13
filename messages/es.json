@@ -47,6 +47,10 @@
     "description": "Label for option 'state' for field '10-icca-legal'",
     "message": "Estado: propiedad del estado/gobierno"
   },
+  "fields.11-icca-legal-rights.label": {
+    "description": "Label for field '11-icca-legal-rights'",
+    "message": "11. ¿Cuáles son los derechos legales (según el Sistema jurídico establecido) de la comunidad para hacer uso de los recursos del TICCA, excluyendo los recursos del subsuelo?"
+  },
   "fields.11-icca-legal-rights.options.full": {
     "description": "Label for option 'full' for field '11-icca-legal-rights'",
     "message": "Derechos legales de todos los recursos "
@@ -326,6 +330,10 @@
   "fields.8-icca-type.placeholder": {
     "description": "An example to guide the user for field '8-icca-type'",
     "message": "Inglés o idioma original"
+  },
+  "fields.9-icca-objectives.label": {
+    "description": "Label for field '9-icca-objectives'",
+    "message": "9. Objetivos: ¿Cuáles son los principales objetivos de la gestión del TICCA? (Por favor, seleccione sólo hasta tres)"
   },
   "fields.9-icca-objectives.options.conservation": {
     "description": "Label for option 'conservation' for field '9-icca-objectives'",
