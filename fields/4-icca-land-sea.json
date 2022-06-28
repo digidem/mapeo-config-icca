@@ -3,14 +3,17 @@
   "type": "select_one",
   "label": "4. Is the ICCA on land, in the sea, or both?",
   "options": [
-    { "label": "All on land and/or freshwater", "value": "land" },
+    { 
+      "label": "All on land and/or freshwater", 
+      "value": "land" 
+    },
     {
       "label": "All in the sea",
       "value": "sea"
     },
     {
       "label": "Covers land (and/or freshwater) and sea",
-      "value": "land and sea"
+      "value": "land_and_sea"
     }
   ]
 }
