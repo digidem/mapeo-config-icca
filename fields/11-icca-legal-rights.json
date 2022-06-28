@@ -8,11 +8,11 @@
       "label": "Full legal rights to all resources "
     },
     {
-      "value": "with limitations",
+      "value": "with_limitations",
       "label": "Legal rights to all resources, within certain constraints (e.g. legal regulations/limitations) "
     },
     {
-      "value": "de facto",
+      "value": "de_facto",
       "label": "De facto rights to all resources (full control of resources, although not in law) "
     },
     {
@@ -20,15 +20,15 @@
       "label": "Temporal/ seasonal rights to resources "
     },
     {
-      "value": "only certain",
+      "value": "only_certain",
       "label": "Rights to only certain resources/ a set amount "
     },
     {
-      "value": "protection only",
+      "value": "protection_only",
       "label": "Protection of resources only: no use allowed "
     },
     {
-      "value": "only commercial",
+      "value": "only_commercial",
       "label": "Rights to commercial use of the resources "
     },
     {
